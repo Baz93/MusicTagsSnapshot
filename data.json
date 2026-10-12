@@ -4513,7 +4513,7 @@
     },
     {
         "path": "Navidrome/0/l/y/0ly4yb7cnrbrktxj.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "13c16f97a5d43d27452b67ca368e6dd7",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -9728,7 +9728,7 @@
     },
     {
         "path": "Navidrome/1/7/r/17rte4vw5yw89won.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "f86f4f48ca33353144322de12234e65a",
         "tags": [
             "APIC(path='ed24d239484c113780b0a2d4d1724067.jpg')",
@@ -9747,12 +9747,12 @@
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['[none]'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['62d91cec-36ba-46b0-a9f9-a9c54ead9ee6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3ee3a125-1040-4847-9658-3a9143f2c89b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['a80feeeb-71e4-4c41-afab-1a1149ef36a1'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['764fbd16-99ac-4a75-9151-ac433e926a0e'])",
@@ -46372,7 +46372,7 @@
     },
     {
         "path": "Navidrome/5/u/p/5upv06vuv3rtu0a7.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "7b099a8630820a66b7559ee6c2bd5364",
         "tags": [
             "APIC(path='ed24d239484c113780b0a2d4d1724067.jpg')",
@@ -46391,12 +46391,12 @@
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['[none]'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['62d91cec-36ba-46b0-a9f9-a9c54ead9ee6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3ee3a125-1040-4847-9658-3a9143f2c89b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['f228f8ec-97e0-41c5-bd72-a4aa83e0d9ae'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['ffb1fa5f-3dc4-4fb9-9ce2-6a8126da233c'])",
@@ -56228,7 +56228,7 @@
     },
     {
         "path": "Navidrome/6/y/j/6yjoters0z7jclf9.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "b120b56f1fc13fffdf4015e2b1b6d9ec",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -62060,7 +62060,7 @@
     },
     {
         "path": "Navidrome/7/q/8/7q8gnweenooc0vgx.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "8812abdd0ee4e6cfd360c9e2fb71d2eb",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -62092,7 +62092,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['When Time Fades Away'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2022'])",
-            "UFID(owner='http://musicbrainz.org', data=b'a6a92c8c-99f2-4071-81ea-34ef01ce1164')"
+            "UFID(owner='http://musicbrainz.org', data=b'2e5b1e36-1d1e-432c-ac6f-1ccd983431b6')"
         ]
     },
     {
@@ -64908,7 +64908,7 @@
     },
     {
         "path": "Navidrome/8/1/q/81q264i8bi1jbnxj.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "4a9b43f443a5fa0998c92bb01c55ae53",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -72849,7 +72849,7 @@
     },
     {
         "path": "Navidrome/9/0/1/901tmn16zp3mrix0.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "362f708b9535c10f8149f73dd3283823",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -86087,7 +86087,7 @@
     },
     {
         "path": "Navidrome/a/l/3/al3xnkk6yatmbdn4.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "9f390e728fd745ae02022b3c666bcd0c",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -87805,7 +87805,7 @@
     },
     {
         "path": "Navidrome/a/r/3/ar3jxc4rtxf547oc.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "82bd2c17f91563c4d8f58f569d2cda10",
         "tags": [
             "APIC(path='596584f09b7a62767b4d593ec2052753.jpg')",
@@ -87823,12 +87823,12 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Anal'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['00c5551f-d19b-48b1-9cb8-3d922ed5c226'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a405f253-5393-40d9-8d29-c34c031df863'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d0ef5533-0e75-4733-b7f2-b2be94c30d5e'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['44e12a06-6680-4346-ac5a-894d0d81092e'])",
@@ -90205,7 +90205,7 @@
     },
     {
         "path": "Navidrome/b/0/7/b07dti63yem1t680.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "d59effdd1e4586fd0553a5af1cd211d9",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -90669,7 +90669,7 @@
     },
     {
         "path": "Navidrome/b/2/v/b2virjiljnfgsmio.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "ea5c708140ca3bff4b767421d3675d6f",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -112274,7 +112274,7 @@
     },
     {
         "path": "Navidrome/d/r/1/dr1gxaxjncyovhfv.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "f5a205e2a9d9a88618edd37c529cd00f",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -112769,7 +112769,7 @@
     },
     {
         "path": "Navidrome/d/u/1/du1rzr19hxodx95j.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "e8cb03845c94a4d8b3a8e561e5fbb9a8",
         "tags": [
             "APIC(path='ed24d239484c113780b0a2d4d1724067.jpg')",
@@ -112788,12 +112788,12 @@
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['[none]'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['62d91cec-36ba-46b0-a9f9-a9c54ead9ee6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3ee3a125-1040-4847-9658-3a9143f2c89b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['11c4a589-997a-476c-85ee-2a111ed94682'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['9caa8244-8184-4759-92d8-cc1dafdb5476'])",
@@ -117743,7 +117743,7 @@
     },
     {
         "path": "Navidrome/e/m/p/emp237y71nvac7wj.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "9388ec7c8eef586342fd795b246e2f1f",
         "tags": [
             "APIC(path='596584f09b7a62767b4d593ec2052753.jpg')",
@@ -117761,12 +117761,12 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Anal'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['00c5551f-d19b-48b1-9cb8-3d922ed5c226'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a405f253-5393-40d9-8d29-c34c031df863'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['ea577a0b-8108-46af-b3f2-97334a24873a'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['9755088d-76d8-4ec6-aa6e-94ea39b78f70'])",
@@ -122740,7 +122740,7 @@
     },
     {
         "path": "Navidrome/f/5/1/f51wo9m551kdbb6q.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "f28de5afb26baeeb7d18b541b6e8ef19",
         "tags": [
             "APIC(path='596584f09b7a62767b4d593ec2052753.jpg')",
@@ -122758,12 +122758,12 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Anal'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['00c5551f-d19b-48b1-9cb8-3d922ed5c226'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a405f253-5393-40d9-8d29-c34c031df863'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['f54a61a9-a538-4123-abfb-dc6d3dbba835'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['0b60b32c-fb51-40cf-9338-081c45f2d787'])",
@@ -127132,7 +127132,7 @@
     },
     {
         "path": "Navidrome/f/q/u/fqul1ckbbbosd6wb.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "173385c97e6de5a975f69a88395bf9ce",
         "tags": [
             "APIC(path='596584f09b7a62767b4d593ec2052753.jpg')",
@@ -127150,12 +127150,12 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Anal'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['00c5551f-d19b-48b1-9cb8-3d922ed5c226'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a405f253-5393-40d9-8d29-c34c031df863'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['4ac2f20b-014f-4b58-9d00-d23f76bfc7d7'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['faec4afc-53d1-420c-95a8-181e2a37339f'])",
@@ -127680,7 +127680,7 @@
     },
     {
         "path": "Navidrome/f/t/e/fteco8ecob3lz51e.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "29b8562fd209511a06296380282c410b",
         "tags": [
             "APIC(path='ed24d239484c113780b0a2d4d1724067.jpg')",
@@ -127699,12 +127699,12 @@
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['[none]'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['62d91cec-36ba-46b0-a9f9-a9c54ead9ee6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3ee3a125-1040-4847-9658-3a9143f2c89b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['c1ac6d98-4545-4193-8c97-041a4127898f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['49694a1f-7207-4f8f-8810-853e0645c26a'])",
@@ -133347,7 +133347,7 @@
     },
     {
         "path": "Navidrome/g/k/j/gkjnvkmi8uie9q8h.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "d3b4a161c42499a5d7e408ebc9943646",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -133379,7 +133379,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Wintersun'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2022'])",
-            "UFID(owner='http://musicbrainz.org', data=b'69c3c2af-5bb9-43ff-bc43-dbae711b8ccd')"
+            "UFID(owner='http://musicbrainz.org', data=b'8fda5b72-2305-4d68-92ba-5482b95a530c')"
         ]
     },
     {
@@ -145296,7 +145296,7 @@
     },
     {
         "path": "Navidrome/i/5/t/i5ty0vn9icko81vm.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "9fd133997b64b4f623d55f09508735d5",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -145328,7 +145328,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['The Forest That Weeps'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2022'])",
-            "UFID(owner='http://musicbrainz.org', data=b'f4ccd2f1-0012-46dc-a1b7-8f0d9441bf68')"
+            "UFID(owner='http://musicbrainz.org', data=b'081d0721-a9c8-4d27-bf27-958a9d8821e9')"
         ]
     },
     {
@@ -159635,7 +159635,7 @@
     },
     {
         "path": "Navidrome/k/5/2/k520vnanxpzhwpy1.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "ae20f8c96d305f40205b5d5395bf2ef0",
         "tags": [
             "APIC(path='ed24d239484c113780b0a2d4d1724067.jpg')",
@@ -159654,12 +159654,12 @@
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['[none]'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['62d91cec-36ba-46b0-a9f9-a9c54ead9ee6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3ee3a125-1040-4847-9658-3a9143f2c89b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d2eaa587-366e-4864-a15a-52bc4f112f6c'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['d8e5e648-3fbd-46b8-9042-dbf9e553926e'])",
@@ -175439,7 +175439,7 @@
     },
     {
         "path": "Navidrome/m/a/e/maeifovzi5kn4spb.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "7f5a97f8177012d7d0668787f05fea72",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -175457,11 +175457,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d08c55c6-5ad6-47fc-a96d-18ca942a3c37'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['88b3aa93-b5e4-4048-9b47-a9de38d8fffb'])",
@@ -179346,7 +179346,7 @@
     },
     {
         "path": "Navidrome/m/w/0/mw0nh2ucdlq45g2n.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "913f3ff59dac1b429d1ad206a5543811",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -179364,11 +179364,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['3a4d5c65-b8b1-4e74-be37-2ed86ff2b533'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['3b4c2a1e-a894-49ae-b8b0-4e8f7f8eefdc'])",
@@ -184555,7 +184555,7 @@
     },
     {
         "path": "Navidrome/n/e/c/necvzikk65fp2293.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "cad6c240f221861df4440c9540b49f55",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -184573,11 +184573,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['184ee87b-ec2c-4b8a-a047-39b3c6359fea'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['2e1edf7e-59a5-45ff-b401-bc376ec5fe73'])",
@@ -198103,7 +198103,7 @@
     },
     {
         "path": "Navidrome/p/2/k/p2kjrafcgu4zhyr9.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "d5841dad0af07b82698a773012b1c5b2",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -202973,7 +202973,7 @@
     },
     {
         "path": "Navidrome/p/o/4/po44rmj0bbdttxbj.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "44ad507ea7dbf748b243589eb682dd0a",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -207561,7 +207561,7 @@
     },
     {
         "path": "Navidrome/q/7/l/q7lyemkfxi62ut2x.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "d21075e14b3ff056adde823a34885c86",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -208237,7 +208237,7 @@
     },
     {
         "path": "Navidrome/q/b/5/qb5rpd4z6bk5qyer.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "97625293b9abc4419782530d9f3817f6",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -208255,11 +208255,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['bb705f35-d69b-4a6c-8967-fee5aba563c0'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['8fef86c7-affe-4543-b055-c152dc113f1f'])",
@@ -211260,7 +211260,7 @@
     },
     {
         "path": "Navidrome/q/p/v/qpvy6gxukkis54cy.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "a9c9bbc3b91116e4641561adf46512dd",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -211278,11 +211278,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['3b76f514-8499-430e-bbc0-3cca3f8ace24'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['e9d77bf3-1171-4b87-aa41-e44b5c8582e6'])",
@@ -215109,7 +215109,7 @@
     },
     {
         "path": "Navidrome/r/6/1/r61il4l6uf3at69v.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "0179ef833cd222fe6e0b7219ae918182",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -220417,7 +220417,7 @@
     },
     {
         "path": "Navidrome/r/u/q/ruqx5u5qnhw60xzd.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "6f7a67b54bf5a788606b415fe1af731f",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -221811,7 +221811,7 @@
     },
     {
         "path": "Navidrome/s/1/u/s1unfal4nt65fzvf.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "059990dbd682aaaedc413c47bdefa459",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -221843,7 +221843,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Land of Snow and Sorrow'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2022'])",
-            "UFID(owner='http://musicbrainz.org', data=b'632f568a-a6a4-47c9-89c8-22be42781c92')"
+            "UFID(owner='http://musicbrainz.org', data=b'd5f3a936-0437-480f-9caa-ba170a7d2cd3')"
         ]
     },
     {
@@ -223375,7 +223375,7 @@
     },
     {
         "path": "Navidrome/s/b/p/sbprgez9e49b88wd.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "5a6fb682c141577071b57e343cd0cc3d",
         "tags": [
             "APIC(path='596584f09b7a62767b4d593ec2052753.jpg')",
@@ -223393,12 +223393,12 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Anal'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['00c5551f-d19b-48b1-9cb8-3d922ed5c226'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['d7465790-cd73-4573-9c77-94048085d3eb'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a405f253-5393-40d9-8d29-c34c031df863'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d54449bc-0472-49da-ac28-0a1cb7df4b83'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['cc84a3a4-034c-403b-8ee1-145e1f8385d5'])",
@@ -223449,7 +223449,7 @@
     },
     {
         "path": "Navidrome/s/b/q/sbqma6vevotlnxgu.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "a9f2c931fed0ac2fdf50d6b441ff73b2",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -223481,7 +223481,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Awaken from the Dark Slumber'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2022'])",
-            "UFID(owner='http://musicbrainz.org', data=b'8beb7f2a-ec8c-4ad8-b086-82bbb745e75c')"
+            "UFID(owner='http://musicbrainz.org', data=b'740cae27-d622-4b25-ba27-686a1df49da1')"
         ]
     },
     {
@@ -228680,7 +228680,7 @@
     },
     {
         "path": "Navidrome/t/2/e/t2ehckgjgnxepj2o.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "6eb072062730f3074ad94b1527cb5b62",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -238452,7 +238452,7 @@
     },
     {
         "path": "Navidrome/u/e/g/uegraeept5vgqk8w.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "7f4589e9a7607cf5ac65ca77af9c9f13",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -238470,11 +238470,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['ebb697fd-3102-430c-b928-e4e7e97eef13'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['b1281236-5a3b-4e8f-acd3-35e8f223829a'])",
@@ -246558,7 +246558,7 @@
     },
     {
         "path": "Navidrome/v/f/4/vf4sabemfs23xyf0.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "6edd9a55c173a22fbcfe87b78f08f0c2",
         "tags": [
             "APIC(path='ed24d239484c113780b0a2d4d1724067.jpg')",
@@ -246577,12 +246577,12 @@
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['[none]'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['62d91cec-36ba-46b0-a9f9-a9c54ead9ee6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3ee3a125-1040-4847-9658-3a9143f2c89b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['de6057d1-0063-486a-b057-4ac5a1f13710'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['7ef19a8c-d663-42fa-a75d-ee661cec1088'])",
@@ -248477,7 +248477,7 @@
     },
     {
         "path": "Navidrome/v/m/j/vmjr66fsnnshtpd5.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "bd70e46044a9222fe03b1dd4a9a2b34b",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -277249,7 +277249,7 @@
     },
     {
         "path": "Navidrome/z/5/n/z5ns2p1d60swq286.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "3b17abfb04a6a0c0f912e222f4fb73de",
         "tags": [
             "APIC(path='717e21df0651e42e6118a39fff457901.jpg')",
@@ -277281,7 +277281,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Sons of Winter and Stars'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2022'])",
-            "UFID(owner='http://musicbrainz.org', data=b'da76cbb7-b44b-45ca-929a-e278880faa8b')"
+            "UFID(owner='http://musicbrainz.org', data=b'4d2c6f0c-00ba-4a52-aa46-15909c62b988')"
         ]
     },
     {
@@ -283904,7 +283904,7 @@
     },
     {
         "path": "Navidrome/z/z/i/zzi0fdf9pwxyoy20.mp3",
-        "modified": 1791813256,
+        "modified": 1791813363,
         "hash": "18ff08312e43939056ce070cf35465b2",
         "tags": [
             "APIC(path='3bd7f13693ae6bab09c69064583b4653.jpg')",
@@ -283922,11 +283922,11 @@
             "TSOP(encoding=Encoding.UTF8, text=['Никита Александрович Капернаумов'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Говнилиум'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['9462d652-04ac-4821-944d-024149daafee'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['2209871a-0ef8-4984-8bef-961f6ea86564'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['492ad5b7-83ec-453d-b0fc-57d0c93ea987'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['9de95cd8-0ae2-459c-abb9-289a8c747dfc'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['03866580-7303-494d-a635-e859df119b29'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['462e649f-a045-4b52-b20a-354b84cc4df3'])",
