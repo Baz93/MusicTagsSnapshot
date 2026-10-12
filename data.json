@@ -582,7 +582,7 @@
     },
     {
         "path": "Navidrome/0/3/0/0301re4gpmf19hg8.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "c09a1b24be7f543220d873e6e10aba97",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -2205,7 +2205,7 @@
     },
     {
         "path": "Navidrome/0/9/d/09dy0sq1nh300d9z.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "6479d37a671dfea2e561a46b5644cc38",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -4002,7 +4002,7 @@
     },
     {
         "path": "Navidrome/0/j/e/0jezzmkc8npt2hw2.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "be90e5a3b2e7e06e95ba8161abbcf866",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -7607,7 +7607,7 @@
     },
     {
         "path": "Navidrome/0/z/l/0zlisj769x6266x9.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "6d3ab83887a43830581a3ea7d405d29e",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -7640,7 +7640,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['9876722b-54e7-35aa-af5c-a6435d444ffd'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['8d69bfec-510e-3251-b07c-a88f336cf75b'])",
@@ -8214,7 +8214,7 @@
     },
     {
         "path": "Navidrome/1/1/k/11kprkv2firwotom.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "d4df48e5d95be1f19633870a4efa6d61",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -8249,7 +8249,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['4a8beb42-c643-363f-af58-53820f475913'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['d604ba44-1e12-327d-8994-17e4ad3a7a30'])",
@@ -10018,7 +10018,7 @@
     },
     {
         "path": "Navidrome/1/9/g/19grdb8o3ohrhlvp.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "673622f0166b13220f7e49ea1c011566",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -10051,7 +10051,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['178f1e8d-a7d6-350a-ad1b-9b2ab639f75e'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['12b204f9-43a5-3ebd-8636-a66dde89faf4'])",
@@ -10747,7 +10747,7 @@
     },
     {
         "path": "Navidrome/1/c/b/1cbh2q66gvq62oqv.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "a2e04a4bca6e0094e0439f430d78c3bb",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -15494,7 +15494,7 @@
     },
     {
         "path": "Navidrome/1/z/j/1zji3p8stdp059ak.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "72b02c6506089408a4b23f4c293b5958",
         "tags": [
             "APIC(path='91f2549106c18333a5a4309c9dc5d6f0.jpg')",
@@ -17538,7 +17538,7 @@
     },
     {
         "path": "Navidrome/2/a/t/2at74ibfwm7y30y7.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "9252bce9ac0b1331b9275737f2cca77b",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -17571,7 +17571,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['80b053ca-5569-325b-94b4-770dc70583d1'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['664769d5-0081-3261-bde1-933304d7f015'])",
@@ -18870,7 +18870,7 @@
     },
     {
         "path": "Navidrome/2/g/a/2gaqzu2duefau9oq.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "64f14a73fc656d36de7c7b7f94060f7a",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -18902,7 +18902,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['XE'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['c5eb9407-caeb-4303-b383-6929aa94021c', 'a818c24f-d7c0-4420-afe9-09971652b87e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['c5eb9407-caeb-4303-b383-6929aa94021c'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['3f72d48f-a1d2-4daf-a2f2-add3552d5673'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['16a2727c-d94e-4ce9-85d1-5fb4027947e8'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['862ea4cf-221e-4067-961a-78883ef51a0d'])",
@@ -24351,7 +24351,7 @@
     },
     {
         "path": "Navidrome/3/3/m/33mjyne877nxgb35.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "07bb83cfc5b904258d1b29b7eae93de9",
         "tags": [
             "APIC(path='91f2549106c18333a5a4309c9dc5d6f0.jpg')",
@@ -24518,7 +24518,7 @@
     },
     {
         "path": "Navidrome/3/4/9/349wwxcfflw8bhm0.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "5f8f5092b52ebe4f2c6f762cf2b35d0a",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -24706,7 +24706,7 @@
     },
     {
         "path": "Navidrome/3/4/q/34qg92p1thx9jlgi.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "4e6d57bfc7cfb7cbd208f4f2f55fabe0",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -28640,7 +28640,7 @@
     },
     {
         "path": "Navidrome/3/l/9/3l9wtokk7q6uc1rj.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "2f1e3ba722390db276eb9a2edf2b95a2",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -29066,7 +29066,7 @@
     },
     {
         "path": "Navidrome/3/n/b/3nbr06vmehit91qn.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "2d42e7fc595c6f91bf4e27f953ce7121",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -32817,7 +32817,7 @@
     },
     {
         "path": "Navidrome/4/4/f/44f966xuap9d2p37.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "e294218d518c870543158f177298e0b7",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -32837,9 +32837,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['5/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800755'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['cdeb990d-cd76-436c-b712-0fd8f45b6471'])",
@@ -40470,7 +40470,7 @@
     },
     {
         "path": "Navidrome/5/4/l/54l40h8fukznyghe.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "d1d3538308622274e4438c9a692c2e15",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -40825,7 +40825,7 @@
     },
     {
         "path": "Navidrome/5/5/d/55dr4tkgfjzw3umf.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "e2a6cc5e5cdf41a0122bec8c3fb4d4b3",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -40858,7 +40858,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['0851ce5b-a338-3392-9452-9a37a907b4b9'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['30344260-53b4-3e8f-ae0c-f5897ff0b0fc'])",
@@ -41169,7 +41169,7 @@
     },
     {
         "path": "Navidrome/5/7/o/57o4tvfdbyx5d47d.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "16afe6fa652d2bf994b8153c415c67e2",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -41189,9 +41189,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['13/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800760', 'USSM19801343'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['30998ef0-099c-4c0b-a83a-d6dd27fed0fd'])",
@@ -41606,7 +41606,7 @@
     },
     {
         "path": "Navidrome/5/a/h/5ahefse0ruhzsry8.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "abfb27bb5cfe9b7db7b4143318bd6478",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -41626,18 +41626,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['b67373ee-b4e7-48bd-8a22-6ce17fe978bc'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['5b77a764-c0d7-4517-b412-af84c0e64eb7'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['5ahefse0ruhzsry8'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'0bbeed17-a0e0-4411-b7bc-7d5e336756b0')",
+            "UFID(owner='http://musicbrainz.org', data=b'288bbeaa-726a-45c6-8335-fd240bdb9668')",
             "USLT(encoding=Encoding.UTF8, text='\\r\\nКолдовских Легенд,\\r\\nСумеречных Снов\\r\\nСквозь Сплетенья Вен -\\r\\nРдяный Волха След\\r\\n\\r\\nРасы Древней Знак\\r\\nЭхом Волчьих Клятв\\r\\nКровью Сквозь Века\\r\\nБелый Род Заклят\\r\\n\\r\\nНаших Битв Доспех\\r\\nВетрами Воспет\\r\\nПреданьями Лесов\\r\\nВ Серый Мех Одет\\r\\n\\r\\nНа Полях Войны\\r\\nПравит Серый Бес\\r\\nТам где Боль и Страх\\r\\nПобеда или Смерть\\r\\n\\r\\nБарабанов Бой\\r\\nКровь и Белый Снег\\r\\nГде Рожден Рассвет\\r\\nКован Волчий Крест\\r\\n\\r\\nВ Отраженьях Битв\\r\\nДиким Воем Крик\\r\\nТысяч Голосов\\r\\nРасы Белой Клич\\r\\n\\r\\nВ Танковой Атаке,\\r\\nВ Грохоте Сапог,\\r\\nВолчьей Воли к Власти\\r\\nГромогласный Рёв\\r\\n\\r\\nВ Безрассудстве Смелых\\r\\nВолкодлаков Кровь\\r\\nРейху Волчьей Тени\\r\\nТысяча Имён\\r\\n\\r\\nЗову Той Крови\\r\\nИ Сейчас Верны\\r\\nВ Сумерках Богов\\r\\nСыновья Взросли\\r\\n\\r\\nМистик и Солдат\\r\\nВоин и Творец\\r\\nМифом Сквозь Века -\\r\\nВолк и Человек\\r\\n\\r\\nВсечен в Скал Гранит\\r\\nВолкоглавый Лик\\r\\nНа Твоей Земле\\r\\nОн в Твоей Крови\\r\\n\\r\\n\"Vervol\\'f\"\\r\\n\\r\\nkoldovskich legend,\\r\\nsumerechnych snov\\r\\nskvoz\\' spleten\\'ja ven -\\r\\nrdjanyj volcha sled\\r\\n\\r\\nRasy drevnej znak\\r\\nechom volch\\'ich kljatv\\r\\nkrov\\'ju skvoz\\' veka\\r\\nbelyj rod zakljat\\r\\n\\r\\nNashich bitv doslech\\r\\nvetrami vospet\\r\\npredan\\'jami lesov\\r\\nv seryj mech odet\\r\\n\\r\\nNa podjach vojny\\r\\npravit seryj ves\\r\\ntam gde vol\\' i strach\\r\\npoveda ili smert\\'\\r\\n\\r\\nBarabanov boj\\r\\nkrov\\' i belyj sneg\\r\\ngde rozhden rassvet\\r\\nkovan volchij krst\\r\\n\\r\\nV otpazhn\\'jach bitv\\r\\ndikim voem krik\\r\\ntysjach golosov\\r\\nrasy veloj klich\\r\\n\\r\\nV tankovoj atake,\\r\\nv grochote sapog,\\r\\nvolch\\'ej voli k vlasti\\r\\ngromoglasnyj pjov\\r\\n\\r\\nV bezpassudstve smelych\\r\\nvolkodlakov krov\\'\\r\\nrejchy volchej teni\\r\\ntysjacha imjoi\\r\\n\\r\\nZovu toj krov\\'\\r\\ni sejchas verny\\r\\nv sumerkach bogov\\r\\nsynov\\'ja verosli\\r\\n\\r\\nMistik i soldat\\r\\nvoni i tvorec\\r\\nmifom skvoe\\' veka -\\r\\nvolk i chelovek\\r\\n\\r\\nVsechen v skal granit\\r\\nvolkoglavyj lik\\r\\nna tvoej zemle\\r\\non v tvoej krovi\\r\\n\\r\\n')"
         ]
     },
@@ -49041,7 +49041,7 @@
     },
     {
         "path": "Navidrome/6/5/b/65bf62jx1h4200qr.mp3",
-        "modified": 1790979932,
+        "modified": 1791817226,
         "hash": "2060979f35b8baa6462046c97acc5442",
         "tags": [
             "APIC(path='8b19d914e8addb900f3a8cd79d12dee9.jpg')",
@@ -55365,7 +55365,7 @@
     },
     {
         "path": "Navidrome/6/v/z/6vzw6aoayf417fx0.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "cf1a621651601aa94a2c222e6b85cc69",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -55400,7 +55400,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['5146a009-6bda-3c1f-ba5b-cfbe2c1e1215'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['82ac80c8-cc3f-38db-81be-0209fa16ce2a'])",
@@ -60593,7 +60593,7 @@
     },
     {
         "path": "Navidrome/7/k/5/7k5t30gkejm33kqj.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "6ab0c1349e15a1671f54fee7f95ae8b2",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -60626,7 +60626,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['71b3385a-2255-325e-a7e7-50ede1ac8c8b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['6dad45b8-9f3c-3fd8-b063-45d3e20b48c1'])",
@@ -60936,7 +60936,7 @@
     },
     {
         "path": "Navidrome/7/k/t/7ktgam8r6f4hn4nk.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "ddd529ef170d9ea3c6e05edd107d4227",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -60956,9 +60956,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['12/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800750'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['e7b6fdab-8998-40ee-9f4a-2795e5cda3d1'])",
@@ -62514,7 +62514,7 @@
     },
     {
         "path": "Navidrome/7/s/w/7swa1w5ybzg18obj.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "3adfee57d48becb96190ad557768791f",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -66824,7 +66824,7 @@
     },
     {
         "path": "Navidrome/8/b/5/8b5ztn3zp7hfkfjz.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "16d960e7bd65fb0a7a17e5eeac5ebb2a",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -68030,7 +68030,7 @@
     },
     {
         "path": "Navidrome/8/f/u/8fu6ctxqx0qjo02y.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "8ddc5609f52d3dff60aa45bf30b46909",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -70068,7 +70068,7 @@
     },
     {
         "path": "Navidrome/8/n/m/8nmp5fboro57roxt.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "69f9f06465ba76824517919c72e71960",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -70088,9 +70088,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['7/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM10006338', 'USSM19800754'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['4840c1fe-6689-4ce1-9e15-5fb6a5f13cf3'])",
@@ -71688,7 +71688,7 @@
     },
     {
         "path": "Navidrome/8/u/q/8uq0tkxakut3w2zx.mp3",
-        "modified": 1790979932,
+        "modified": 1791817226,
         "hash": "d35ab198b915ae1670b35ad4762fcbeb",
         "tags": [
             "APIC(path='8b19d914e8addb900f3a8cd79d12dee9.jpg')",
@@ -77776,7 +77776,7 @@
     },
     {
         "path": "Navidrome/9/j/5/9j5h04poj9q47mzz.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "1d4f87176e2ddbc2a70e6206cc2ee533",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -77791,8 +77791,8 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['10/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['533c2e5c-9561-4a73-bcf4-ad607a4e7b42'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['SAMPCD 5720'])",
@@ -77805,7 +77805,6 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['cc0b7089-c08d-4c10-b6b0-873582c17fd6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['97f37409-b91a-3495-8e70-56fd9f7658c2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['88131239-2f8c-3b0a-ad99-e8f4b137d42e'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['735935a3-7345-3d0e-b387-45160f6d2db6'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['9j5h04poj9q47mzz'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
@@ -79582,7 +79581,7 @@
     },
     {
         "path": "Navidrome/9/t/1/9t1rws21lzmfb0b7.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "a6a5ad20b531f538ba30124e852b0229",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -95956,7 +95955,7 @@
     },
     {
         "path": "Navidrome/b/p/5/bp59vxfb8tp0buin.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "70876767a5406b5a650c5a243bf0088d",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -96850,7 +96849,7 @@
     },
     {
         "path": "Navidrome/b/r/k/brkxc8ol01jg59p4.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "3bf7711de69c1820a1f44ae19c844616",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -96885,7 +96884,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['0207c59b-f2cb-3d70-a487-25aafbf977e1'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['32cbd1e7-a7e5-358b-87f5-94081eff2bdf'])",
@@ -97852,7 +97851,7 @@
     },
     {
         "path": "Navidrome/b/w/h/bwhjernvifp3ycz8.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "c0ba035fb4997eb8a1d3e32989faa473",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -102226,7 +102225,7 @@
     },
     {
         "path": "Navidrome/c/l/a/claele4409n1l2xp.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "6a15055e51768d64018f9da611e52147",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -103359,7 +103358,7 @@
     },
     {
         "path": "Navidrome/c/q/t/cqti8nhb7qri7f0s.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "4cfb53c5197deac17cfad23db91a3207",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -103392,7 +103391,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['4854bc2d-24e2-322f-bdf3-e3e9242bc3c8'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['cc053c23-d8de-3cad-9145-2ba0f653bd10'])",
@@ -106039,7 +106038,7 @@
     },
     {
         "path": "Navidrome/d/0/j/d0j4qkn2xmanoc8t.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "227d30636a55cced1c0c6d38b4d58389",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -106971,7 +106970,7 @@
     },
     {
         "path": "Navidrome/d/3/t/d3tbfegyd5yq4vm1.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "20193e2498c24371269e98a86a4f52f1",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -107004,7 +107003,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['365a49a7-4468-3c19-8abc-719b441127a4'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['c456f583-f4aa-399e-a97b-70e192201ac2'])",
@@ -110839,7 +110838,7 @@
     },
     {
         "path": "Navidrome/d/k/f/dkfcyqu5agmi1i6p.mp3",
-        "modified": 1790900129,
+        "modified": 1791817226,
         "hash": "2258fac8a2e8665590ad4e7e2f55e867",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -111057,7 +111056,7 @@
     },
     {
         "path": "Navidrome/d/k/p/dkppu20raatugjqe.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "9dd4ffd2b523618c1982839b92f9ab09",
         "tags": [
             "APIC(path='91f2549106c18333a5a4309c9dc5d6f0.jpg')",
@@ -113822,7 +113821,7 @@
     },
     {
         "path": "Navidrome/e/0/r/e0raq9j7ffci7m1g.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "0a2fc54da7006bf1a3baa8a95566ff48",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -114452,7 +114451,7 @@
     },
     {
         "path": "Navidrome/e/3/6/e36o04x3d5lsevz0.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "a5d1adf9c783659e92b71c4c5c1449cc",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -114472,9 +114471,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['1/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800758', 'USSM19800763'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['3f302e6d-9d2a-4805-a895-80f3b8974423'])",
@@ -115324,7 +115323,7 @@
     },
     {
         "path": "Navidrome/e/9/n/e9nzzkgu3nbkod5m.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "5978a0dafe0989c4562cda12618a7f84",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -115344,18 +115343,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['5c3a47d5-a8ea-44dc-9995-ea2434b14fb2'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['8e4ac5be-d980-4fc3-91b0-684a600a8d1f'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['e9nzzkgu3nbkod5m'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'cbd121b2-7db8-475c-8494-84711b54bb69')",
+            "UFID(owner='http://musicbrainz.org', data=b'15929dec-d27a-4c52-b1ba-409dd43c6fcb')",
             "USLT(encoding=Encoding.UTF8, text='[Instrumental]')"
         ]
     },
@@ -119801,7 +119800,7 @@
     },
     {
         "path": "Navidrome/e/u/m/eum5rihcjeyocqtb.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "b2ca7cee1999147acc26545d6e610c98",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -119834,7 +119833,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['13447f0a-0167-3c44-a453-8f8d89c3581b'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['6b6d6335-f881-3ff3-8b97-00896836bb61'])",
@@ -121347,7 +121346,7 @@
     },
     {
         "path": "Navidrome/f/0/b/f0bvol6o5mt8ustm.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "44a436df46237eb5777e229e3cdf7588",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -121380,7 +121379,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['bb43e020-6616-3a58-ad1d-7b71b08bb8b8'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['662d00a1-4c3a-3ea6-b9ae-ce33813ae0b7'])",
@@ -121691,7 +121690,7 @@
     },
     {
         "path": "Navidrome/f/2/c/f2c0lqzkatwiaa5t.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "0deec1ed3e7fd8f49bb04150f9ab2f9f",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -121953,45 +121952,48 @@
     },
     {
         "path": "Navidrome/f/2/r/f2rped0ll28ogmp5.mp3",
-        "modified": 1791363814,
+        "modified": 1791817226,
         "hash": "d6672288af2e2e480e412f8861c0dfcd",
         "tags": [
             "APIC(path='bec50f89757db3814ae7b789e54fde21.jpg')",
-            "TALB(encoding=Encoding.UTF8, text=['Utsukushii Hoshi [standalone]'])",
+            "TALB(encoding=Encoding.UTF8, text=['ウインダリア/バース'])",
+            "TCMP(encoding=Encoding.UTF8, text=['1'])",
             "TCOM(encoding=Encoding.UTF8, text=['Kunihiko Murai', 'Akino Arai'])",
             "TCON(encoding=Encoding.UTF8, text=['Pop'])",
-            "TDOR(encoding=Encoding.UTF8, text=['1986-07-05'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999-06-23'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-06-23'])",
             "TEXT(encoding=Encoding.UTF8, text=['Michio Yamagami', 'Akino Arai'])",
             "TIPL(encoding=Encoding.UTF8, people=[['arranger', 'Satoshi Kadokura']])",
             "TIT2(encoding=Encoding.UTF8, text=['Utsukushii Hoshi'])",
             "TLAN(encoding=Encoding.UTF8, text=['jpn'])",
             "TMED(encoding=Encoding.UTF8, text=['CD'])",
-            "TPE1(encoding=Encoding.UTF8, text=['Akino Arai'])",
-            "TPE2(encoding=Encoding.UTF8, text=['Akino Arai'])",
-            "TPUB(encoding=Encoding.UTF8, text=['Victor', 'Victor'])",
-            "TSO2(encoding=Encoding.UTF8, text=['Arai, Akino'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Akino Arai & Satoshi Kadokura'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Various Artists'])",
+            "TPOS(text=['1/2'])",
+            "TPUB(encoding=Encoding.UTF8, text=['Victor'])",
+            "TRCK(text=['14/18'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Various Artists'])",
             "TSOC(encoding=Encoding.UTF8, text=['Murai, Kunihiko', 'Arai, Akino'])",
-            "TSOP(encoding=Encoding.UTF8, text=['Arai, Akino'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Arai, Akino & Kadokura, Satoshi'])",
             "TSRC(encoding=Encoding.UTF8, text=['JPVI08606460'])",
-            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Akino Arai'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Akino Arai', 'Satoshi Kadokura'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ASIN', text=['B00005GXQA'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['VICL-60433', 'VICL-60434'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Japan'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['fac271b8-b340-440a-9938-3d59d0f90b97'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['89ad4ac3-39f7-470e-963a-56509c546377'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['a2637d3f-a998-4786-955f-3e38b7f5f2a6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['JP'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'soundtrack'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['fac271b8-b340-440a-9938-3d59d0f90b97'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['fac271b8-b340-440a-9938-3d59d0f90b97', 'ef9148c0-89ab-4797-b899-07773ac20fc3'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['bc11b27b-5a1f-4127-9733-12112109d80e'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d50e8004-e188-43e8-8710-5742004b4724'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['103b3168-efa7-4af6-bd13-d59acc1c45c7', 'd080912e-c1de-42b0-8c9f-71685183c558'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['f2rped0ll28ogmp5'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Jpan'])",
             "TXXX(encoding=Encoding.UTF8, desc='STANDALONE', text=['1'])",
-            "TXXX(encoding=Encoding.UTF8, desc='STANDALONE_ALBUM', text=['d50e8004-e188-43e8-8710-5742004b4724'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['美しい星'])",
-            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1986'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
             "UFID(owner='http://musicbrainz.org', data=b'df88ebb6-1aaf-46e6-9cc9-a52d1a55ca17')"
         ]
     },
@@ -122692,7 +122694,7 @@
     },
     {
         "path": "Navidrome/f/5/0/f50jwa2ohu1b9ob7.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "3003aab16534192f30115a885f3e32c0",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -125044,7 +125046,7 @@
     },
     {
         "path": "Navidrome/f/i/1/fi1ccp4e38r4g3iu.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "50faee73a2e3a583d5e063311138bfa7",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -125416,7 +125418,7 @@
     },
     {
         "path": "Navidrome/f/j/2/fj2nf2fs05icv1w1.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "efd3713b1171942b59b4b282b1098f9c",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -125436,18 +125438,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['84d2ed6b-3042-4b12-9cb6-25a726c59be5'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['19692cc7-38e9-4cf9-a02a-46b942c17459'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['fj2nf2fs05icv1w1'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'5886cceb-6614-43c7-99a0-7f6ecd84802d')",
+            "UFID(owner='http://musicbrainz.org', data=b'6690c393-f316-4703-b66b-fb5c9fbd2661')",
             "USLT(encoding=Encoding.UTF8, text='[Instrumental]')"
         ]
     },
@@ -126958,7 +126960,7 @@
     },
     {
         "path": "Navidrome/f/p/m/fpmpd7dekh5kgtf2.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "6dd6260a340bf114e804ddfcadab6ebc",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -133763,7 +133765,7 @@
     },
     {
         "path": "Navidrome/g/m/8/gm8zqudmv6myb387.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "e39413c1a714fc21200e58a4774fe24d",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -133783,19 +133785,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['f0948a40-938d-4018-b273-1eae4eeb23ed'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['a7a45759-1918-4398-94fd-e76fa4ade922'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['fcf49bf3-779c-37f7-85e6-22300c80a899'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['gm8zqudmv6myb387'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'4ffe236c-b343-40db-8061-89f46ee17740')",
+            "UFID(owner='http://musicbrainz.org', data=b'9c7a09b3-2442-4fb6-abc0-7f125da8ade2')",
             "USLT(encoding=Encoding.UTF8, text=\"\\r\\nThunder and lightning,\\r\\nThe woods against sky\\r\\nStarlit cold waters\\r\\nReflect in blue eyes\\r\\n\\r\\nScarlet the sunset,\\r\\nPure is our blood\\r\\nBaptized shores\\r\\nAwait us afar...\\r\\n\\r\\nHailed be the Panzer,\\r\\nOld Faith of Hammer\\r\\nBy Fires and Murder\\r\\nWhite Thunder Roars\\r\\n\\r\\nBurn their temples\\r\\nBurn to the ground\\r\\nAllfather of battle\\r\\nCalls us for War\\r\\n\\r\\nPlunder and Pillage\\r\\nTriumph and Conquest\\r\\nPower and Wisdom\\r\\nThe Will of Our Kind\\r\\n\\r\\nHailed be the Panzer\\r\\nOld Faith of Hammer\\r\\nBy Fires and Murder\\r\\nWhite Thunder Roars\\r\\n\\r\\nWhite Devils of Glory\\r\\nThe swords against sky\\r\\nRed be the mornings\\r\\nBy the Blood of the Sons\\r\\n\\r\\nWhile twilight comes brown\\r\\nWhite is the colour\\r\\nThe only one colour\\r\\nI'll paint the Night\\r\\n\\r\\nHailed be the Panzer,\\r\\nOld Faith of Hammer\\r\\nBy Fires and Murder\\r\\nWhite Thunder Roars\\r\\n\\r\\nEternity calls Us\\r\\nBy the voice of Our Blood\\r\\nThe legends still live on\\r\\nBy the Faith of the Sons\\r\\n\\r\\nMad is our century\\r\\nYet We still believe\\r\\nDeath or Valhalla\\r\\nOur Weapons and Dreams\\r\\n\\r\\nHailed be the Panzer,\\r\\nOld Faith of Hammer\\r\\nIn the days of Ragnarok\\r\\nWhite Thunder Roars\\r\\n\\r\\n\")"
         ]
     },
@@ -136585,7 +136586,7 @@
     },
     {
         "path": "Navidrome/h/0/o/h0oc6by0st8ze3hz.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "6a2b96c24469153eb3c3796b1667086a",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -138360,7 +138361,7 @@
     },
     {
         "path": "Navidrome/h/9/3/h939vintusx2v7s2.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "09f96aa2b3364e0988fa323e958fd1a2",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -138380,9 +138381,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['11/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM10006340', 'USSM19800753'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['a44df4a4-bdcd-4c26-b881-570b97bb4da9'])",
@@ -139029,7 +139030,7 @@
     },
     {
         "path": "Navidrome/h/b/n/hbng54rz7u3pe09f.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "779b68c30f817b658a8a0324e5ebf312",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -143531,7 +143532,7 @@
     },
     {
         "path": "Navidrome/h/z/8/hz8fmrzs084l8fj8.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "d2368e3fa6763e0b40e7576ede1d60a4",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -157988,7 +157989,7 @@
     },
     {
         "path": "Navidrome/j/y/9/jy9l9f03uaxjxdmu.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "9a52a5a4da7d3d4286ee5d014c0ba125",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -158008,9 +158009,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['2/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron', 'Odadjian, Shavo', 'Tankian, Serj'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800856', 'USSM19801342'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['af6b79eb-76ae-4c2b-b3f4-b89b50cc64e7'])",
@@ -164415,7 +164416,7 @@
     },
     {
         "path": "Navidrome/k/v/5/kv5i65gt2za2dllz.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "aded5bad3ef25750227782dd075e9ae3",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -164448,7 +164449,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['dc5253d7-4ef3-35d0-a954-15b60a382cb5'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['da5d698f-a3ec-33af-a8e3-e6d8b03fcece'])",
@@ -166238,7 +166239,7 @@
     },
     {
         "path": "Navidrome/l/5/8/l58zbtj0ka68znhg.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "0d07c8f625539db1b638c794e71cbce8",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -173455,7 +173456,7 @@
     },
     {
         "path": "Navidrome/m/2/6/m26l75bn5ybbasvr.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "60d4e8b18bc9507152f85962177ee891",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -173475,18 +173476,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['35a21eda-763b-41df-b31b-e5a3284ecf3b'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['4ca20e06-c0d2-420d-8ecf-c9424f5cb926'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['m26l75bn5ybbasvr'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'e6bae0bb-cfe4-4c4d-ab48-9af9c2985012')",
+            "UFID(owner='http://musicbrainz.org', data=b'819ffe40-383c-4daa-b667-c8193725d5e1')",
             "USLT(encoding=Encoding.UTF8, text='[Instrumental]')"
         ]
     },
@@ -177868,7 +177869,7 @@
     },
     {
         "path": "Navidrome/m/n/8/mn85po247tkuoxb5.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "7ff85024c2e759af9753f9626a06e5f2",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -179478,7 +179479,7 @@
     },
     {
         "path": "Navidrome/m/w/t/mwtvd17o1wm774j1.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "5887fe7ac56e808585ee0fc06c562c6d",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -179490,7 +179491,7 @@
             "TEXT(encoding=Encoding.UTF8, text=['Tim Rice'])",
             "TIPL(encoding=Encoding.UTF8, people=[['engineer', 'Paula Jones'], ['engineer', 'Pete Lewis'], ['mix', 'Chris Thomas'], ['producer', 'Chris Thomas']])",
             "TIT2(encoding=Encoding.UTF8, text=['Can You Feel the Love Tonight?'])",
-            "TLAN(encoding=Encoding.UTF8, text=['eng', 'jpn'])",
+            "TLAN(encoding=Encoding.UTF8, text=['eng'])",
             "TMCL(encoding=Encoding.UTF8, people=[['guitar', 'Davey Johnstone'], ['drums (drum set)', 'Chuck Sabo'], ['bass', 'Phil Spalding'], ['background vocals', 'Davey Johnstone'], ['background vocals', 'Gary Barlow'], ['background vocals', 'Kiki Dee'], ['background vocals', 'Phil Spalding'], ['background vocals', 'Rick Astley'], ['lead vocals', 'Elton John']])",
             "TMED(encoding=Encoding.UTF8, text=['CD'])",
             "TPE1(encoding=Encoding.UTF8, text=['Elton John'])",
@@ -179501,7 +179502,7 @@
             "TSO2(encoding=Encoding.UTF8, text=['John, Elton'])",
             "TSOC(encoding=Encoding.UTF8, text=['John, Elton'])",
             "TSOP(encoding=Encoding.UTF8, text=['John, Elton'])",
-            "TSRC(encoding=Encoding.UTF8, text=['FRY089401172', 'GBRBE0799282', 'USAMP9400001', 'USWD10210160', 'USWD10220758', 'USWD11780906'])",
+            "TSRC(encoding=Encoding.UTF8, text=['FRY089401172', 'USAMP9400001', 'USWD11780906'])",
             "TSST(encoding=Encoding.UTF8, text=['Original Edition 1995'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Elton John'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['0441a40b-32ec-434e-ba59-0a8188b7ec31'])",
@@ -179516,10 +179517,10 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['b83bc61f-8451-4a5d-8b8e-7e9ed295e822'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['cb5fd5f2-5f22-362b-b4d2-9371b8632d12'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['8be1ff50-e3c0-3544-9534-8626773ffa36'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['5f8a1668-8a5d-33e6-b021-85fa12e6cc6e', '28eeedec-d8d6-46fb-a8ab-0fd228a70d5f', '01efc8ad-4dde-49f5-bd09-2ed1cc94ac58'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['5f8a1668-8a5d-33e6-b021-85fa12e6cc6e'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['mwtvd17o1wm774j1'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
-            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Can You Feel the Love Tonight', '愛を感じて'])",
+            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Can You Feel the Love Tonight'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1995'])",
             "UFID(owner='http://musicbrainz.org', data=b'6ee36260-342c-46fe-b430-b03f2dced51c')"
         ]
@@ -180905,7 +180906,7 @@
     },
     {
         "path": "Navidrome/n/1/e/n1ediyw58332x8ny.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "fbb7d5b4f9b768eb5c9881f27bc84a3f",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -182051,7 +182052,7 @@
     },
     {
         "path": "Navidrome/n/6/b/n6b3cu33bhgj9bj9.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "988bedfd86740a9b34143d4462f7a56e",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -182083,7 +182084,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['JP'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', '14ed9dea-1bb0-4743-ba32-39674a71da89'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['8fd32554-02a7-3788-a761-7012e0e75e55'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d3dc81d7-6a0c-3838-956c-9ca0de9158f4'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['7cad995e-dc15-3ea3-b5a2-81562b45fd83'])",
@@ -186854,7 +186855,7 @@
     },
     {
         "path": "Navidrome/n/p/h/nphezgt7bgzdh70e.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "ac1208f35c2ff8fc576ff463a9e4b2a0",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -191359,7 +191360,7 @@
     },
     {
         "path": "Navidrome/o/7/g/o7gdrw63kqc3j20c.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "fd23904e911edc7b005921884f07b232",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -191392,7 +191393,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['bf7ac113-fadc-3272-ae9c-42745a0f99c3'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['0048bde8-5b57-30fc-bd4b-c2f99397c741'])",
@@ -191406,7 +191407,7 @@
     },
     {
         "path": "Navidrome/o/7/r/o7r5rhc2gecjcffi.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "33440349fac999d7534a222b68a6b608",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -191421,8 +191422,8 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['9/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['380742b0-6519-4ef3-ba57-9851da2bec36'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['SAMPCD 5720'])",
@@ -191435,7 +191436,6 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['cc0b7089-c08d-4c10-b6b0-873582c17fd6'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['97f37409-b91a-3495-8e70-56fd9f7658c2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['d6bdaf8c-7c50-3854-912f-482f3f21fef3'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['5551e1f7-f98d-3de3-92d8-1591e7c306e2'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['o7r5rhc2gecjcffi'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
@@ -195832,7 +195832,7 @@
     },
     {
         "path": "Navidrome/o/s/6/os6hqdxg0lw7e2cg.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "44aac6a02f23bd8cbe842a2d8a6cf5b9",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -195865,7 +195865,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['8f67bba5-9034-31b6-85f5-57600c31d4a4'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['1762d440-364d-36b2-b964-217dd743190d'])",
@@ -198221,7 +198221,7 @@
     },
     {
         "path": "Navidrome/p/2/w/p2wylgh0j58mg63i.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "cd1fc47f28952f7a88af5d6a2ffe3c6d",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -203428,7 +203428,7 @@
     },
     {
         "path": "Navidrome/p/q/c/pqco5oeydv0lgzrc.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "c1dc3a049012a36808d3f97e853a8c49",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -203448,9 +203448,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['3/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron', 'Odadjian, Shavo'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800759', 'USSM19806468'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['8c9775d8-3bf3-458f-95bd-714c958ba0c0'])",
@@ -204091,7 +204091,7 @@
     },
     {
         "path": "Navidrome/p/r/p/prpqws6ukjh6l6k6.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "e03633cf79827328baa96ea2fc75b235",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -204111,18 +204111,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['0a73ca90-310c-41a7-bdfb-9d9803603115'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['2bd0a91c-69dd-4d06-9fe3-a7dd9cf46f34'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['prpqws6ukjh6l6k6'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'25d2188f-9a2b-4c80-b66a-4581f0cf944d')",
+            "UFID(owner='http://musicbrainz.org', data=b'6f033885-bb59-4ccd-a542-56ff325c6a05')",
             "USLT(encoding=Encoding.UTF8, text='\\r\\nЧто шепчут курганы зарницам рассвета\\r\\nВ предутренних далей холодный простор,\\r\\nКогда бесконечность в легендах воспета\\r\\nВ вечность вплетенных сквозь крови узор?\\r\\n\\r\\nЧто сниться глухим позабытым погостам\\r\\nВ синем безмолвии снежных ночей,\\r\\nКогда зимняя буря все звуки уносит\\r\\nВ бескрайность танцующих с вьюгой полей?\\r\\n\\r\\nКто-то смеялся навстречу закату\\r\\nРассветом пылая в тумане ночном\\r\\nА кто-то терялся, навеки сливался\\r\\nС твоих вечеров синевой колдовской,\\r\\n\\r\\nКто-то остался мечтою и сказкой,\\r\\nПреданьем и песней на этой Земле\\r\\nКто-то растаял, в шелесте сгинул\\r\\nВздохами ветра в осенней траве...\\r\\n\\r\\nЗачем так бездонен пугающий вечер\\r\\nВ скорби свинцовых небес пустоте\\r\\nЗачем позабытые мертвые песни\\r\\nЗдесь ветер в ладонях несёт тишине?\\r\\n\\r\\nЧто вспомнят озёра в мерцающих звездах\\r\\nА звезды что видят в озёр глубине?\\r\\nЗачем укрывает их дымкою осень,\\r\\nХвойным туманом по чёрной воде?\\r\\n\\r\\nКто-то смеялся навстречу закату\\r\\nРассветом пылая в тумане ночном\\r\\nА кто-то терялся, навеки сливался\\r\\nС твоих вечеров синевой колдовской,\\r\\n\\r\\nКто-то остался мечтою и сказкой,\\r\\nПреданьем и песней на этой Земле\\r\\nКто-то растаял, в шелесте сгинул\\r\\nВздохами ветра в осенней траве...\\r\\n\\r\\nГде бесы выводят рдяные строки\\r\\nВ пустых горизонтах исчерпанных грёз\\r\\nРасплатою, страхом, призраком скорби\\r\\nПотускневших видений застывшая кровь...\\r\\n\\r\\nБыль или небыль в сказки одета?\\r\\nДождь или кровь на мутном стекле?\\r\\nВ ладонях Героев осколком ответов\\r\\nПравды осколком на древней Земле.\\r\\n')"
         ]
     },
@@ -205428,7 +205428,7 @@
     },
     {
         "path": "Navidrome/p/y/c/pycunoff2u2ax2vq.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "ec083459620459e448b27a093c6d9fd3",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -205448,9 +205448,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['4/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800757'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['8cbaa8bd-205b-420b-a972-fae9c9fd58eb'])",
@@ -206067,7 +206067,7 @@
     },
     {
         "path": "Navidrome/q/1/q/q1q6x6b0vezb8ufw.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "bf9166d218582cd7c2a05ac22dbb448f",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -207985,7 +207985,7 @@
     },
     {
         "path": "Navidrome/q/a/9/qa9mle4x331ylhmf.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "a4b11e06ccc216f56419a2d2fd366ced",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -208018,7 +208018,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['455c6fa5-e4b2-3eaa-86e1-a3518b03f865'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['970ed604-e53e-3756-9561-1a58711067d3'])",
@@ -210369,7 +210369,7 @@
     },
     {
         "path": "Navidrome/q/l/n/qlnlz4gcg87yn4ou.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "e655ee4bedce57210ee432343375d943",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -210402,7 +210402,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['1d4fb139-2ec1-351d-b348-e8e9fbaff4ef'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['30e5b12f-ae25-35ee-90b4-c33190e04448'])",
@@ -210497,7 +210497,7 @@
     },
     {
         "path": "Navidrome/q/m/9/qm927jini9y3p1lq.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "743424a21e78e0669e5dbd098998e9f9",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -215686,7 +215686,7 @@
     },
     {
         "path": "Navidrome/r/a/3/ra3xnowyh594gj10.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "e14e234f6805a9a903e8081d372459b4",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -221217,7 +221217,7 @@
     },
     {
         "path": "Navidrome/r/y/5/ry5snltks61ssw58.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "69cad9a4704599fce9de1b8ee5eabbb1",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -221237,9 +221237,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['8/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800857'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['d9f012dd-49db-4c3c-812e-02cabf498b45'])",
@@ -228082,7 +228082,7 @@
     },
     {
         "path": "Navidrome/s/w/x/swxr1pvuk2mf1s91.mp3",
-        "modified": 1790787779,
+        "modified": 1791817226,
         "hash": "72e82cb4584a0ed8bc564cd9a56d2ba8",
         "tags": [
             "APIC(path='ad2a7ad00974f791384e1467bed251aa.jpg')",
@@ -228102,9 +228102,9 @@
             "TPOS(text=['1/1'])",
             "TPUB(encoding=Encoding.UTF8, text=['Columbia'])",
             "TRCK(text=['6/13'])",
-            "TSO2(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSO2(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSOC(encoding=Encoding.UTF8, text=['Malakian, Daron', 'Odadjian, Shavo'])",
-            "TSOP(encoding=Encoding.UTF8, text=['System of a Down'])",
+            "TSOP(encoding=Encoding.UTF8, text=['System Of A Down'])",
             "TSRC(encoding=Encoding.UTF8, text=['USSM19800749'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['System of a Down'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['67a0f1a4-e6d9-4411-ad20-7c24828eb020'])",
@@ -232525,7 +232525,7 @@
     },
     {
         "path": "Navidrome/t/l/c/tlcnc6etjpjhnds9.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "221c724890978781aa1b83fa31b54cd2",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -236014,7 +236014,7 @@
     },
     {
         "path": "Navidrome/u/3/l/u3lmoahn038wnbqa.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "23726816a8b645783d2ad5bb8ff05c56",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -239251,7 +239251,7 @@
     },
     {
         "path": "Navidrome/u/h/n/uhnn1kita4i6m2ud.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "5ed3cd8439f3ac836315a33510d5586d",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -239287,7 +239287,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['86cdc1c9-6030-339f-8c51-14374418df27'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['a13a4029-ecd5-3930-b673-96ae651ea519'])",
@@ -243071,7 +243071,7 @@
     },
     {
         "path": "Navidrome/v/1/v/v1vscexw1rn1ul51.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "aa9d40c57f63c7506bcb9f8d830d143f",
         "tags": [
             "APIC(path='91f2549106c18333a5a4309c9dc5d6f0.jpg')",
@@ -243101,7 +243101,6 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a50636b5-5233-3329-a7f3-dba3d0e00ef7'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['882f6a02-7c6f-3e55-9e94-cff7528fc8b2'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['cb3da85e-b167-4cd7-ac8b-2d3e8d2435ba'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['v1vscexw1rn1ul51'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1969'])",
@@ -245337,7 +245336,7 @@
     },
     {
         "path": "Navidrome/v/a/l/valws3xgd2adtan9.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "764a34e17ecc8abfca47a3b1b500359d",
         "tags": [
             "APIC(path='91f2549106c18333a5a4309c9dc5d6f0.jpg')",
@@ -245367,7 +245366,6 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['a50636b5-5233-3329-a7f3-dba3d0e00ef7'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['71092aa6-8e7a-390c-a9e9-edfe30a5a634'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['a0269c14-aed9-39ab-a984-dc0d9c17adbc'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['valws3xgd2adtan9'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1969'])",
@@ -247036,7 +247034,7 @@
     },
     {
         "path": "Navidrome/v/g/t/vgtxw7wuv9c56v31.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "a851f5c207860e0a8dc68c4df683c52e",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -247044,6 +247042,7 @@
             "TDOR(encoding=Encoding.UTF8, text=['2024-11-14'])",
             "TDRC(encoding=Encoding.UTF8, text=['2024-11-14'])",
             "TIT2(encoding=Encoding.UTF8, text=['\"Live\" Guitar Solo (demo)'])",
+            "TLAN(encoding=Encoding.UTF8, text=['zxx'])",
             "TMED(encoding=Encoding.UTF8, text=['Digital Media'])",
             "TPE1(encoding=Encoding.UTF8, text=['Wintersun'])",
             "TPE2(encoding=Encoding.UTF8, text=['Wintersun'])",
@@ -247063,8 +247062,10 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['c054ea6b-c585-41eb-ae7e-4b0ca43308ff'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['5704a925-586c-4ece-b9a5-8e88b65e4af5'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['72c835d1-0532-4711-a1e8-7368d3529bb5'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['df879cd7-3327-4688-a52c-84d9bd3babaa'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['vgtxw7wuv9c56v31'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['\"Live\" Guitar Solo (demo)'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2024'])",
             "UFID(owner='http://musicbrainz.org', data=b'f7d0172c-f15e-4974-9e20-937d93018732')"
         ]
@@ -254978,7 +254979,7 @@
     },
     {
         "path": "Navidrome/w/f/h/wfhlqw6y5ch28vah.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "a215f53e6b3f72451955ece5fdc89b8a",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -256000,7 +256001,7 @@
     },
     {
         "path": "Navidrome/w/k/6/wk6pknidedh7lq5f.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "4f908e878bbb5fd4c57edf74334f67c0",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -256033,7 +256034,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['6c5a6e62-07b4-3907-b3d3-0a8463f98e6d'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['d97fe109-0356-31dd-91b7-86569cd388d0'])",
@@ -256294,7 +256295,7 @@
     },
     {
         "path": "Navidrome/w/l/b/wlb9fsudqyogjm0o.mp3",
-        "modified": 1790898761,
+        "modified": 1791817226,
         "hash": "57c03653f145a8f4c11cf536849edb27",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -258869,7 +258870,7 @@
     },
     {
         "path": "Navidrome/w/v/y/wvy40ph0qptycd3t.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "4fe70cdcd0b6164c3d420a3f16d6d191",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -260532,7 +260533,7 @@
     },
     {
         "path": "Navidrome/x/2/p/x2pzmgubjhfxcqyp.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "36f6a0e28e70139f7753b008c29be7dd",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -260565,7 +260566,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['6ce595a3-9667-323c-811b-87b918bf401d'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['75524618-80a6-3707-b0ae-1b857c94281d'])",
@@ -268551,7 +268552,7 @@
     },
     {
         "path": "Navidrome/y/3/b/y3bkkygtkacbyyk1.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "888f6db1ed4baa7f6f857076494d2ee8",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -268719,7 +268720,7 @@
     },
     {
         "path": "Navidrome/y/4/c/y4c4lfpyxa9s6yix.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "3c7f49e4847cd69e2eff35fa3ed6166e",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -268986,7 +268987,7 @@
     },
     {
         "path": "Navidrome/y/5/0/y50dovqiz6sqtcf3.mp3",
-        "modified": 1790802025,
+        "modified": 1791817226,
         "hash": "afbe4e47663ac0ae138cc4c9c166faf2",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -269754,7 +269755,7 @@
     },
     {
         "path": "Navidrome/y/7/3/y733q1hterwix5is.mp3",
-        "modified": 1790807420,
+        "modified": 1791817226,
         "hash": "9af81c4396312676566266d22409b459",
         "tags": [
             "APIC(path='de4382ddca8b4d3dd4c921810c852dc3.jpg')",
@@ -270194,7 +270195,7 @@
     },
     {
         "path": "Navidrome/y/a/5/ya5x9ml8i6jlf83k.mp3",
-        "modified": 1790979932,
+        "modified": 1791817226,
         "hash": "2c4f4e87f6d4756e674f4f76c4c58c1a",
         "tags": [
             "APIC(path='8b19d914e8addb900f3a8cd79d12dee9.jpg')",
@@ -270227,7 +270228,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['single'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['c14b4180-dc87-481e-b17a-64e4150f90f6'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['e8272b2d-aff2-3cbb-b71f-02e15db5f32f'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['53030b5d-9f23-38d3-83e3-4f7053955992'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['141b20b1-ae65-3b22-afb4-4436cd06b376'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['a38ba795-b491-3e46-9996-096e4135e2b8'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['ya5x9ml8i6jlf83k'])",
@@ -272326,7 +272327,7 @@
     },
     {
         "path": "Navidrome/y/j/p/yjpp0otahc6ixw1n.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "81fa9abdd2652f2b6cb6b27878cff0ff",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -272346,18 +272347,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['3acc4e66-3cbb-43a6-b040-2bf94b4bcc97'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['e4fd702f-23e7-45f8-8779-99091fbc8e2a'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['yjpp0otahc6ixw1n'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'399572b0-7bea-4f20-bdc1-cadc0802e304')",
+            "UFID(owner='http://musicbrainz.org', data=b'3d38d065-2b18-4ce1-855e-8cd47d51109f')",
             "USLT(encoding=Encoding.UTF8, text='\\r\\nЗарево, Зарево ‒\\r\\nГрозовая Высь\\r\\nОтблесками Молний\\r\\nНебосвод Разбит\\r\\n\\r\\nХмелем Чистой Крови\\r\\nСердце не Молчит\\r\\nГрёз и Яви Строки\\r\\nВмиг Соединив\\r\\n\\r\\nБесконечно Пьяны\\r\\nПервых Гроз Глотки\\r\\nДождевой Водою ‒\\r\\nГоризонт Весны\\r\\n\\r\\nОтблесками Палева\\r\\nМаски Озарив\\r\\nБелым Чистым Пламенем\\r\\nНочь Её Покрыв\\r\\n\\r\\nПесен Ярким Сполохам\\r\\nЯстребом Нестись,\\r\\nЛедяными Струнами\\r\\nТишину Пронзив\\r\\n\\r\\nВ Сказочной Дубраве\\r\\nТам, Где Край Ночи\\r\\nВедьме Синеглазой\\r\\nКосы Расплести\\r\\n\\r\\nБесконечно Пьяны\\r\\nПервых Гроз Глотки\\r\\nДождевой Водою ‒\\r\\nГоризонт Весны\\r\\n\\r\\nОтблесками Палева\\r\\nМаски Озарив,\\r\\nБелым Чистым Пламенем\\r\\nНочь Её Покрыв\\r\\n\\r\\nСнов Её Разгадкой\\r\\nВ утренней тиши\\r\\nСказкой, Смехом, Тайной\\r\\nБоль Её Укрыв\\r\\n\\r\\nРодиной Рассвета,\\r\\nПамятью Зари,\\r\\nВерой Нарекая\\r\\nГоризонт Весны\\r\\n')"
         ]
     },
@@ -272545,7 +272546,7 @@
     },
     {
         "path": "Navidrome/y/l/6/yl66zll5gpk7ysq0.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "e9d33f2fe815993c366b95341adb1ea3",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
@@ -272976,7 +272977,7 @@
     },
     {
         "path": "Navidrome/y/n/c/yncbevuqcadbedw2.mp3",
-        "modified": 1790804950,
+        "modified": 1791817226,
         "hash": "928da4a89569d35d9d77cc7c26330b89",
         "tags": [
             "APIC(path='7f3e230d55cea26bba92903aa807e5e9.jpg')",
@@ -272996,18 +272997,18 @@
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['33eec64b-e839-480a-be2d-e76548f5bb3a'])",
             "TXXX(encoding=Encoding.UTF8, desc='CATALOGNUMBER', text=['CDM 0503-1386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['Russia'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['b070e925-86f3-434f-aca0-5df63ccfb7f2'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['RU'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['10c10d58-2a2f-4a26-99e4-151212f51cb3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['73202ee8-0885-4687-96f3-b2ea39712300'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['4d304ed2-38e5-45b5-97e0-ce9fdf4b583f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['c78d2785-b8cf-4ea4-a173-6378af8570aa'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['yncbevuqcadbedw2'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Cyrl'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'a9fcf8c3-8649-4180-baef-f430ff18aeca')",
+            "UFID(owner='http://musicbrainz.org', data=b'57af7e26-5813-4e65-9d72-246e6aedd02c')",
             "USLT(encoding=Encoding.UTF8, text=\"\\r\\nFatherland - Tragedies\\r\\nTragedies written in snow\\r\\nFatherland - Poetry\\r\\nPoetry written in blood\\r\\n\\r\\nFatherland - Lonely Nights\\r\\nOf coldness, of autumn, of rain\\r\\nFatherland - Razor blades\\r\\nOf winter, of smoke and the pain\\r\\n\\r\\nFatherland - Ghosts of White\\r\\nI'd swear they could kill\\r\\nFatherland - Murderer\\r\\nI know you will be\\r\\n\\r\\nFatherland - Celtic Cross\\r\\nWhen all colours are dead\\r\\nFatherland - Mysteries\\r\\nWhere the horizons end...\\r\\n\")"
         ]
     },
@@ -273535,7 +273536,7 @@
     },
     {
         "path": "Navidrome/y/o/s/yose14mvambgsvx8.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "615ae64495070bed6ed46abe6c537b04",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -277463,7 +277464,7 @@
     },
     {
         "path": "Navidrome/z/6/m/z6mfr9yyjmh6k5e7.mp3",
-        "modified": 1790802026,
+        "modified": 1791817226,
         "hash": "0377992a4bb7ef9c2499adf98668be9c",
         "tags": [
             "APIC(path='cd60d043e44298d043f426d5f8a45557.jpg')",
@@ -278808,7 +278809,7 @@
     },
     {
         "path": "Navidrome/z/d/4/zd4039im30vuic82.mp3",
-        "modified": 1790802027,
+        "modified": 1791817226,
         "hash": "ccdce68b748bd657e8fc184b915e5d4a",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -278841,7 +278842,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Release Country', text=['GB'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album', 'live'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab', 'adcc6c98-0bf1-4d54-84aa-2249cf5e46bf', 'deebc49a-6e06-418e-860f-8c7f770a8bac'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['9f9a0b60-c88f-3e35-816d-0193fba00e0d'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['5ccad98a-9e2d-369c-b60c-48ee186d93ab'])",
@@ -283363,7 +283364,7 @@
     },
     {
         "path": "Navidrome/z/x/z/zxztlxo3m2ed6s0v.mp3",
-        "modified": 1790787774,
+        "modified": 1791817226,
         "hash": "abc6c0b0313f05e0d1d123345640088b",
         "tags": [
             "APIC(path='fcec7efad84afcebdc818abdab8df3f3.jpg')",
