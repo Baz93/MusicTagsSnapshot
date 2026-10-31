@@ -148167,6 +148167,36 @@
         ]
     },
     {
+        "path": "Navidrome/i/c/7/ic7azqmfdh86uedd.mp3",
+        "modified": 1793482786,
+        "hash": "6a5ed067cc288f37a538d863624bf5ce",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['Primordial Twilight'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['6/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['8f2f05d0-ef59-305b-a2a7-c97342156e58'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['ic7azqmfdh86uedd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'e3fb2cfc-89d8-4d87-b96c-b4ee9939a22e')"
+        ]
+    },
+    {
         "path": "Navidrome/i/c/a/icaxv2a7wr8j3cn9.mp3",
         "modified": 1790807420,
         "hash": "52bfc83f862c9cd13d1a0bbd64faf161",
@@ -153270,6 +153300,36 @@
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2007'])",
             "UFID(owner='http://musicbrainz.org', data=b'4b1bcd53-a722-48f9-9639-e5836d4d7c39')"
+        ]
+    },
+    {
+        "path": "Navidrome/j/0/g/j0g7sgb6svoxk0dr.mp3",
+        "modified": 1793482786,
+        "hash": "6fb33e85fca1220c2efcbe87185d1ffc",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['Burdened With All That Tires'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['4/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['c4ab6b19-e5db-3834-b7c6-8ed1bbe01337'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['j0g7sgb6svoxk0dr'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'7be50e69-bf4b-4b47-9cbf-b04b4a8a5d81')"
         ]
     },
     {
@@ -164438,6 +164498,36 @@
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Colin Brittain', 'Anthony Esperance', 'Tobin Esperance', 'Nicholas Furlong', 'Jerry Horton', 'Jacoby Shaddix'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2019'])",
             "UFID(owner='http://musicbrainz.org', data=b'ab685f40-eab9-4e85-8e5f-1b6714138ac8')"
+        ]
+    },
+    {
+        "path": "Navidrome/k/i/u/kiu3821xsxzvuzsq.mp3",
+        "modified": 1793482786,
+        "hash": "119a54882752492dd4dde266c460861d",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['Winter Embrace'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['1/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['1aa5542b-d5e5-3b61-971b-a5de88570018'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['kiu3821xsxzvuzsq'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'93c71857-1e26-4d3f-849b-b7d966f4d2f6')"
         ]
     },
     {
@@ -188624,6 +188714,36 @@
         ]
     },
     {
+        "path": "Navidrome/n/k/b/nkbjv9bbpga0dmf1.mp3",
+        "modified": 1793482786,
+        "hash": "26b826ff902a3d9cb62e2b98e006da43",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['Fertile Wounds'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['7/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['198c9231-7bcf-35f3-bd9e-b95ae49a596e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['nkbjv9bbpga0dmf1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'67cfd0e8-745f-410c-8d60-cbd479bd5544')"
+        ]
+    },
+    {
         "path": "Navidrome/n/k/e/nke66j9wwabfglrh.mp3",
         "modified": 1790787779,
         "hash": "6aa140e77ebfef55a51e404eea3f12df",
@@ -199976,6 +200096,36 @@
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Elizabeth Fraser', 'Robin Guthrie', 'Simon Raymonde'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1984'])",
             "UFID(owner='http://musicbrainz.org', data=b'd81fcdad-55d5-4d0c-a6f4-7beb020c44b4')"
+        ]
+    },
+    {
+        "path": "Navidrome/o/y/3/oy32o60zm5ymeeha.mp3",
+        "modified": 1793482786,
+        "hash": "ef1727c619a3c51c2ca326b0adf48b14",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['Until I Greet the Angels'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['2/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['caef623f-d27b-38d8-8a13-1f6c258b2160'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['oy32o60zm5ymeeha'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'6ce67e9d-b56b-4842-8215-27dbc9712e68')"
         ]
     },
     {
@@ -275776,6 +275926,36 @@
         ]
     },
     {
+        "path": "Navidrome/y/i/g/yigl9n3cf34ohw3p.mp3",
+        "modified": 1793482786,
+        "hash": "47474afeae91636d3dc1dde3acba6284",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['... And Dawn Will Bleed Its Final Light'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['3/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['5ef3dd90-3d4f-3cd3-b5d7-83341c791b94'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['yigl9n3cf34ohw3p'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'c470c7cb-56f9-452a-acaf-247d87d17995')"
+        ]
+    },
+    {
         "path": "Navidrome/y/i/i/yiipba4ik5t7azy5.mp3",
         "modified": 1790871646,
         "hash": "63e9b95c7ab059d6f0a4cfbea9274823",
@@ -283649,6 +283829,36 @@
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1992'])",
             "UFID(owner='http://musicbrainz.org', data=b'285b5d5d-38cd-43b1-a4d8-9ee7ecae630e')"
+        ]
+    },
+    {
+        "path": "Navidrome/z/h/5/zh50bbovmc2ykl1p.mp3",
+        "modified": 1793482786,
+        "hash": "eee3f895093615bd144d4f70f65a0478",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['Soft Glow of Perishing Cold'])",
+            "TCON(encoding=Encoding.UTF8, text=['Metal'])",
+            "TDOR(encoding=Encoding.UTF8, text=['1999'])",
+            "TDRC(encoding=Encoding.UTF8, text=['1999'])",
+            "TIT2(encoding=Encoding.UTF8, text=['The Grim Phantasm'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TPOS(text=['1/1'])",
+            "TRCK(text=['5/7'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Thy Withering Orchard'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['4cbf2ea3-15d5-46e1-b7bc-d5fe88a1725e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['album'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['dbcd311c-0146-4a10-a492-4db66b23fefd'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['ddc362e8-0920-3ea6-8815-8e8e30fa53db'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['64f4dd04-ba21-381c-b35b-f5aa90953fbf'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['zh50bbovmc2ykl1p'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1999'])",
+            "UFID(owner='http://musicbrainz.org', data=b'88c30f1c-5278-4a58-bc5e-389b548dbf7e')"
         ]
     },
     {
