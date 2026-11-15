@@ -2327,7 +2327,7 @@
     },
     {
         "path": "Navidrome/0/9/m/09m2cdre66q36m98.mp3",
-        "modified": 1790802026,
+        "modified": 1794728294,
         "hash": "c55203f619c85be9806816fcb4edb206",
         "tags": [
             "APIC(path='e1ec397d7e973326342046c426808ae4.jpg')",
@@ -2366,7 +2366,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Seek & Destroy'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1983'])",
-            "UFID(owner='http://musicbrainz.org', data=b'bf92a969-2999-4a70-bda0-3a85f672accf')"
+            "UFID(owner='http://musicbrainz.org', data=b'0d6c6f5d-9afe-4ce8-8aa5-37e66dfce546')"
         ]
     },
     {
@@ -18103,14 +18103,16 @@
     },
     {
         "path": "Navidrome/2/a/t/2at74ibfwm7y30y7.mp3",
-        "modified": 1791817226,
+        "modified": 1794728295,
         "hash": "9252bce9ac0b1331b9275737f2cca77b",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
+            "TCOM(encoding=Encoding.UTF8, text=['James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
+            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['One'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -18123,6 +18125,7 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['8/10'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
+            "TSOC(encoding=Encoding.UTF8, text=['Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900022', 'USEV19900047'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -18139,7 +18142,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['80b053ca-5569-325b-94b4-770dc70583d1'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['664769d5-0081-3261-bde1-933304d7f015'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['664769d5-0081-3261-bde1-933304d7f015', '43986f7f-c0e8-3bec-82ac-8992df7b3d7f'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['2at74ibfwm7y30y7'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['One'])",
@@ -53152,7 +53155,7 @@
     },
     {
         "path": "Navidrome/6/h/w/6hwcw81ctuh3t0yj.mp3",
-        "modified": 1790871645,
+        "modified": 1794728294,
         "hash": "8627ebf0dccc3d02501b19d0d9692cf0",
         "tags": [
             "APIC(path='d651fa10ea6d4f6967697516767af3d9.jpg')",
@@ -53187,10 +53190,10 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['55d8ab42-990b-4c94-93c8-9ca7927b5fc0'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['59eb5e46-3116-40be-a962-64af69835093'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['05a9016b-2fcd-4fe2-93a9-3e7152350c3e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['05a9016b-2fcd-4fe2-93a9-3e7152350c3e', '8245c2b5-49de-4b1f-96b5-19d96fc3a792'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['6hwcw81ctuh3t0yj'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
-            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Atlas, Rise!'])",
+            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Atlas, Rise!', 'Moth Into Flame'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2016'])",
             "UFID(owner='http://musicbrainz.org', data=b'4329387e-4207-497b-b47e-b59b4522f7c1')"
@@ -56756,7 +56759,7 @@
     },
     {
         "path": "Navidrome/6/v/z/6vzw6aoayf417fx0.mp3",
-        "modified": 1791817226,
+        "modified": 1794728294,
         "hash": "cf1a621651601aa94a2c222e6b85cc69",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -56794,7 +56797,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['5146a009-6bda-3c1f-ba5b-cfbe2c1e1215'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['82ac80c8-cc3f-38db-81be-0209fa16ce2a'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['27ac1e83-39c5-355f-a441-77054d2b54b1', '82ac80c8-cc3f-38db-81be-0209fa16ce2a'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['6vzw6aoayf417fx0'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['The Call of Ktulu'])",
@@ -100013,7 +100016,7 @@
     },
     {
         "path": "Navidrome/b/w/h/bwhjernvifp3ycz8.mp3",
-        "modified": 1791817226,
+        "modified": 1794728294,
         "hash": "c0ba035fb4997eb8a1d3e32989faa473",
         "tags": [
             "APIC(path='7881d3bcace889e006cfab41e25b26be.jpg')",
@@ -100021,7 +100024,7 @@
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1997-11-15'])",
             "TDRC(encoding=Encoding.UTF8, text=['1997-11-15'])",
-            "TIPL(encoding=Encoding.UTF8, people=[['producer', 'James Hetfield'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich'], ['engineer', 'Bernardo Bigalli'], ['engineer', 'Brian Dobbs'], ['engineer', 'Darren Grahn'], ['engineer', 'Kent Matcke'], ['engineer', 'Gary Winger'], ['mix', 'Mike Fraser'], ['mix', 'Randy Staub']])",
+            "TIPL(encoding=Encoding.UTF8, people=[['producer', 'James Hetfield'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich'], ['engineer', 'Bernardo Bigalli'], ['engineer', 'Brian Dobbs'], ['engineer', 'Darren Grahn'], ['engineer', 'Kent Matcke'], ['engineer', 'Gary Winger'], ['mix', 'Mike Fraser'], ['mix', 'Randy Staub'], ['arranger', 'Michael Kamen']])",
             "TIT2(encoding=Encoding.UTF8, text=['Fuel'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
             "TMCL(encoding=Encoding.UTF8, people=[['electric guitar', 'James Hetfield'], ['electric guitar', 'Kirk Hammett'], ['electric bass guitar', 'Jason Newsted'], ['membranophone', 'Lars Ulrich'], ['lead vocals', 'James Hetfield'], ['additional percussion', 'Jim McGillveray'], ['drums (drum set)', 'Lars Ulrich']])",
@@ -100048,7 +100051,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['8fd32554-02a7-3788-a761-7012e0e75e55'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['cfc7c928-c7f8-3466-8083-d86bab84bec2'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['c5c2db68-833a-3700-bf2e-c867dd676b5e'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['c5c2db68-833a-3700-bf2e-c867dd676b5e', '30e5b12f-ae25-35ee-90b4-c33190e04448'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['bwhjernvifp3ycz8'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Fuel'])",
@@ -105629,14 +105632,16 @@
     },
     {
         "path": "Navidrome/c/q/t/cqti8nhb7qri7f0s.mp3",
-        "modified": 1791817226,
+        "modified": 1794728294,
         "hash": "4cfb53c5197deac17cfad23db91a3207",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
+            "TCOM(encoding=Encoding.UTF8, text=['Cliff Burton', 'Kirk Hammett', 'James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
+            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['Master of Puppets'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -105649,6 +105654,7 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['3/11'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
+            "TSOC(encoding=Encoding.UTF8, text=['Burton, Cliff', 'Hammett, Kirk', 'Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900006', 'USEV19900031'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -105665,7 +105671,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['4854bc2d-24e2-322f-bdf3-e3e9242bc3c8'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['cc053c23-d8de-3cad-9145-2ba0f653bd10'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['19ec21de-2d93-390c-98b0-b68d98c4baf5', 'cc053c23-d8de-3cad-9145-2ba0f653bd10'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['cqti8nhb7qri7f0s'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Master of Puppets'])",
@@ -131043,7 +131049,7 @@
     },
     {
         "path": "Navidrome/f/v/a/fvax7t41lqq4xl05.mp3",
-        "modified": 1790802031,
+        "modified": 1794728294,
         "hash": "607e7edbfd9278e074715cde30494de0",
         "tags": [
             "APIC(path='890e3cd9c1e52a5046098774c8210133.jpg')",
@@ -131084,7 +131090,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Wherever I May Roam'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1991'])",
-            "UFID(owner='http://musicbrainz.org', data=b'8889c63e-dc63-479b-91dc-209bb15995df')"
+            "UFID(owner='http://musicbrainz.org', data=b'beb44d91-c5ce-4004-b912-653d989755d7')"
         ]
     },
     {
@@ -168237,14 +168243,16 @@
     },
     {
         "path": "Navidrome/k/v/5/kv5i65gt2za2dllz.mp3",
-        "modified": 1791817226,
+        "modified": 1794728295,
         "hash": "aded5bad3ef25750227782dd075e9ae3",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
+            "TCOM(encoding=Encoding.UTF8, text=['Cliff Burton', 'James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
+            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['For Whom the Bell Tolls'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -168257,6 +168265,7 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['3/10'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
+            "TSOC(encoding=Encoding.UTF8, text=['Burton, Cliff', 'Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900017', 'USEV19900042'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -168273,7 +168282,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['dc5253d7-4ef3-35d0-a954-15b60a382cb5'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['da5d698f-a3ec-33af-a8e3-e6d8b03fcece'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['6bcb65cf-bced-3d53-a915-7c1dbb5224a4', 'da5d698f-a3ec-33af-a8e3-e6d8b03fcece'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['kv5i65gt2za2dllz'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['For Whom the Bell Tolls'])",
@@ -168364,7 +168373,7 @@
     },
     {
         "path": "Navidrome/k/v/o/kvo3oosxu1ee79zj.mp3",
-        "modified": 1790802031,
+        "modified": 1794728294,
         "hash": "569ac9563b895c08dd10cbdcdf499159",
         "tags": [
             "APIC(path='890e3cd9c1e52a5046098774c8210133.jpg')",
@@ -168405,7 +168414,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Enter Sandman'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Kirk Hammett', 'James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1991'])",
-            "UFID(owner='http://musicbrainz.org', data=b'fe4a0608-cf7f-444a-a932-a1b77c766673')"
+            "UFID(owner='http://musicbrainz.org', data=b'd4e611de-047d-4337-aacc-5cc47871d3e0')"
         ]
     },
     {
@@ -169490,7 +169499,7 @@
     },
     {
         "path": "Navidrome/l/2/n/l2nmmuhhclq4kh74.mp3",
-        "modified": 1790802031,
+        "modified": 1794728294,
         "hash": "21a09481d45319d6ff629db44b36faad",
         "tags": [
             "APIC(path='890e3cd9c1e52a5046098774c8210133.jpg')",
@@ -169531,7 +169540,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Don’t Tread on Me'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1991'])",
-            "UFID(owner='http://musicbrainz.org', data=b'a130f313-bb4c-49dd-812e-976c88afa28c')"
+            "UFID(owner='http://musicbrainz.org', data=b'f4d7c07e-4fae-4dd2-9ad4-7f2146d6c6b0')"
         ]
     },
     {
@@ -170269,7 +170278,7 @@
     },
     {
         "path": "Navidrome/l/5/d/l5dqkbo0190iulfm.mp3",
-        "modified": 1790802026,
+        "modified": 1794728294,
         "hash": "3fd7d67fd466c9d8fe0d02fd7da629c6",
         "tags": [
             "APIC(path='e1ec397d7e973326342046c426808ae4.jpg')",
@@ -170280,7 +170289,7 @@
             "TIPL(encoding=Encoding.UTF8, people=[['producer', 'Jon Zazula'], ['producer', 'Paul Curcio'], ['engineer', 'Chris Bubacz'], ['engineer', 'Andy Wroblewski']])",
             "TIT2(encoding=Encoding.UTF8, text=['Jump in the Fire'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
-            "TMCL(encoding=Encoding.UTF8, people=[['electric bass guitar', 'Cliff Burton'], ['electric guitar', 'James Hetfield'], ['electric guitar', 'Kirk Hammett'], ['drums (drum set)', 'Lars Ulrich'], ['lead vocals', 'James Hetfield']])",
+            "TMCL(encoding=Encoding.UTF8, people=[['electric bass guitar', 'Cliff Burton'], ['electric guitar', 'James Hetfield'], ['electric guitar', 'Kirk Hammett'], ['drums (drum set)', 'Lars Ulrich'], ['bass', 'Cliff Burton'], ['guitar', 'James Hetfield'], ['guitar', 'Kirk Hammett'], ['lead vocals', 'James Hetfield'], ['vocals', 'James Hetfield']])",
             "TMED(encoding=Encoding.UTF8, text=['12\" Vinyl'])",
             "TPE1(encoding=Encoding.UTF8, text=['Metallica'])",
             "TPE2(encoding=Encoding.UTF8, text=['Metallica'])",
@@ -170308,7 +170317,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Jump in the Fire'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Dave Mustaine', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1983'])",
-            "UFID(owner='http://musicbrainz.org', data=b'321b3122-f443-4709-8098-3afba7cddca9')"
+            "UFID(owner='http://musicbrainz.org', data=b'6fd388f2-9ebf-4190-b88c-48eea51c5495')"
         ]
     },
     {
@@ -212947,14 +212956,16 @@
     },
     {
         "path": "Navidrome/q/a/9/qa9mle4x331ylhmf.mp3",
-        "modified": 1791817226,
+        "modified": 1794728295,
         "hash": "a4b11e06ccc216f56419a2d2fd366ced",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
+            "TCOM(encoding=Encoding.UTF8, text=['Kirk Hammett', 'James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
+            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['Bleeding Me'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -212967,6 +212978,7 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['11/11'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
+            "TSOC(encoding=Encoding.UTF8, text=['Hammett, Kirk', 'Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900014', 'USEV19900039'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -212983,7 +212995,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['455c6fa5-e4b2-3eaa-86e1-a3518b03f865'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['970ed604-e53e-3756-9561-1a58711067d3'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['eb99ff61-e196-3990-9884-76fbd60ed0bf', '970ed604-e53e-3756-9561-1a58711067d3'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['qa9mle4x331ylhmf'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Bleeding Me'])",
@@ -220851,7 +220863,7 @@
     },
     {
         "path": "Navidrome/r/a/h/rah1c98j8gma0qb0.mp3",
-        "modified": 1790871645,
+        "modified": 1794728294,
         "hash": "98264741dff473474c47757f61ed6c0d",
         "tags": [
             "APIC(path='d651fa10ea6d4f6967697516767af3d9.jpg')",
@@ -220886,10 +220898,10 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['55d8ab42-990b-4c94-93c8-9ca7927b5fc0'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['2a6de0a0-9c5b-4baf-bbb8-1c1b9b3b0d6b'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['8245c2b5-49de-4b1f-96b5-19d96fc3a792'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['8245c2b5-49de-4b1f-96b5-19d96fc3a792', '05a9016b-2fcd-4fe2-93a9-3e7152350c3e'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['rah1c98j8gma0qb0'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
-            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Moth Into Flame'])",
+            "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Moth Into Flame', 'Atlas, Rise!'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2016'])",
             "UFID(owner='http://musicbrainz.org', data=b'985414c6-ea26-4542-ad72-a78d34c83299')"
@@ -234922,7 +234934,7 @@
     },
     {
         "path": "Navidrome/t/7/y/t7yl4v7qmlnllr0n.mp3",
-        "modified": 1790898760,
+        "modified": 1794728294,
         "hash": "b13b3589156f6da4b558b6bcf0fe8922",
         "tags": [
             "APIC(path='9372304a4af71742dbdc6a53f9510f4c.jpg')",
@@ -234930,6 +234942,7 @@
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['2003'])",
             "TDRC(encoding=Encoding.UTF8, text=['2003'])",
+            "TIPL(encoding=Encoding.UTF8, people=[['engineer', 'Mike Gillies'], ['mix', 'Bob Rock'], ['producer', 'Metallica'], ['producer', 'Bob Rock']])",
             "TIT2(encoding=Encoding.UTF8, text=['Commando [Ramones cover]'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
             "TMED(encoding=Encoding.UTF8, text=['CD'])",
@@ -234939,6 +234952,7 @@
             "TRCK(text=['3/6'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
+            "TSRC(encoding=Encoding.UTF8, text=['GBAMC0300021'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
             "TXXX(encoding=Encoding.UTF8, desc='Acoustid Id', text=['df19594d-5258-4e81-9ff1-2b6c37089a14'])",
             "TXXX(encoding=Encoding.UTF8, desc='Country', text=['United States'])",
@@ -234955,7 +234969,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Commando'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['Douglas Glenn Colvin', 'Thomas Erdelyi', 'Jeffrey Hyman', 'John Cummings'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2003'])",
-            "UFID(owner='http://musicbrainz.org', data=b'0e7f92fa-f26f-4cc2-b5bd-36e1bd51872f')"
+            "UFID(owner='http://musicbrainz.org', data=b'ff40d5af-79d6-4aaf-a23b-89073a496a29')"
         ]
     },
     {
@@ -261886,14 +261900,16 @@
     },
     {
         "path": "Navidrome/w/k/6/wk6pknidedh7lq5f.mp3",
-        "modified": 1791817226,
+        "modified": 1794728295,
         "hash": "4f908e878bbb5fd4c57edf74334f67c0",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
+            "TCOM(encoding=Encoding.UTF8, text=['James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
+            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['Until It Sleeps'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -261906,6 +261922,7 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['2/10'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
+            "TSOC(encoding=Encoding.UTF8, text=['Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900016', 'USEV19900041'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -261922,7 +261939,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['6c5a6e62-07b4-3907-b3d3-0a8463f98e6d'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['d97fe109-0356-31dd-91b7-86569cd388d0'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['9b34a9d7-4ef5-3809-b18e-edfcbc02a588', 'd97fe109-0356-31dd-91b7-86569cd388d0'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['wk6pknidedh7lq5f'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Until It Sleeps'])",
@@ -266494,14 +266511,16 @@
     },
     {
         "path": "Navidrome/x/2/p/x2pzmgubjhfxcqyp.mp3",
-        "modified": 1791817226,
+        "modified": 1794728295,
         "hash": "36f6a0e28e70139f7753b008c29be7dd",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
+            "TCOM(encoding=Encoding.UTF8, text=['Kirk Hammett', 'James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
+            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['Hero of the Day'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -266514,6 +266533,7 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['9/11'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
+            "TSOC(encoding=Encoding.UTF8, text=['Hammett, Kirk', 'Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900012', 'USEV19900037'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -266530,7 +266550,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['6ce595a3-9667-323c-811b-87b918bf401d'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['75524618-80a6-3707-b0ae-1b857c94281d'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['75524618-80a6-3707-b0ae-1b857c94281d', '2724a6fe-e4ac-3cf5-9ed5-30a816872405'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['x2pzmgubjhfxcqyp'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Hero of the Day'])",
