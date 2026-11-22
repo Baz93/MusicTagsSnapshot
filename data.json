@@ -277501,7 +277501,7 @@
     },
     {
         "path": "Navidrome/y/1/e/y1elrvhzc3lr0fb0.mp3",
-        "modified": 1795352246,
+        "modified": 1795378181,
         "hash": "832e722a327a6e8dd013eaa04c7eaced",
         "tags": [
             "APIC(path='b2b4bc9d9cd2b8bd8a581a065105fd5c.jpg')",
@@ -277537,6 +277537,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['637ccb3c-7708-4e1e-ac17-62cf6895711b'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['y1elrvhzc3lr0fb0'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Jpan'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['YouTube'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['Opus 137k'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://youtu.be/gsQLAfhDehA'])",
             "TXXX(encoding=Encoding.UTF8, desc='STANDALONE', text=['1'])",
             "TXXX(encoding=Encoding.UTF8, desc='STANDALONE_ALBUM', text=['eb4cf7aa-83ca-42d8-8ce6-586cdbad13ce'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['季節を抱きしめて'])",
