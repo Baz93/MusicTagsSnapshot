@@ -57364,7 +57364,7 @@
     },
     {
         "path": "Navidrome/6/v/z/6vzw6aoayf417fx0.mp3",
-        "modified": 1794728294,
+        "modified": 1795324729,
         "hash": "cf1a621651601aa94a2c222e6b85cc69",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
@@ -57402,7 +57402,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['5146a009-6bda-3c1f-ba5b-cfbe2c1e1215'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['27ac1e83-39c5-355f-a441-77054d2b54b1', '82ac80c8-cc3f-38db-81be-0209fa16ce2a'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['82ac80c8-cc3f-38db-81be-0209fa16ce2a'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['6vzw6aoayf417fx0'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['The Call of Ktulu'])",
@@ -59894,7 +59894,7 @@
     },
     {
         "path": "Navidrome/7/8/9/789so507g6iptpgt.mp3",
-        "modified": 1790802031,
+        "modified": 1795324729,
         "hash": "8520d28f777484049c658724e668b026",
         "tags": [
             "APIC(path='890e3cd9c1e52a5046098774c8210133.jpg')",
@@ -59935,7 +59935,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Sad but True'])",
             "TXXX(encoding=Encoding.UTF8, desc='Writer', text=['James Hetfield', 'Lars Ulrich'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1991'])",
-            "UFID(owner='http://musicbrainz.org', data=b'a105dba3-a35b-464f-8f46-b18c21c13809')"
+            "UFID(owner='http://musicbrainz.org', data=b'cfc4f459-8ce8-46d5-9633-3c6e3e8d7217')"
         ]
     },
     {
@@ -106857,16 +106857,14 @@
     },
     {
         "path": "Navidrome/c/q/t/cqti8nhb7qri7f0s.mp3",
-        "modified": 1794728294,
+        "modified": 1795324729,
         "hash": "4cfb53c5197deac17cfad23db91a3207",
         "tags": [
             "APIC(path='1981d700c08e57a6cef3aa681dd645b3.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['S&M'])",
-            "TCOM(encoding=Encoding.UTF8, text=['Cliff Burton', 'Kirk Hammett', 'James Hetfield', 'Lars Ulrich'])",
             "TCON(encoding=Encoding.UTF8, text=['Metal'])",
             "TDOR(encoding=Encoding.UTF8, text=['1999-11-22'])",
             "TDRC(encoding=Encoding.UTF8, text=['1999-11-22'])",
-            "TEXT(encoding=Encoding.UTF8, text=['James Hetfield'])",
             "TIPL(encoding=Encoding.UTF8, people=[['mix', 'Randy Staub'], ['mix', 'James Seymour Brett'], ['mix', 'Darren Grahn'], ['mix', 'Billy Konkel'], ['mix', 'Leff Lefferts'], ['mix', 'Kent Matcke'], ['mix', 'Stephen McLaughlin'], ['arranger', 'Geoff Alexander'], ['arranger', 'Ted Allen'], ['arranger', 'Pete Anthony'], ['arranger', 'Bruce Babcock'], ['arranger', 'Chris Boardman'], ['arranger', 'Bob Elhai'], ['arranger', 'Blake Neely'], ['arranger', 'Jonathan Sacks'], ['arranger', 'Brad Warnaar'], ['arranger', 'Michael Kamen'], ['producer', 'James Hetfield'], ['producer', 'Michael Kamen'], ['producer', 'Bob Rock'], ['producer', 'Lars Ulrich']])",
             "TIT2(encoding=Encoding.UTF8, text=['Master of Puppets'])",
             "TLAN(encoding=Encoding.UTF8, text=['eng'])",
@@ -106879,7 +106877,6 @@
             "TPUB(encoding=Encoding.UTF8, text=['Vertigo'])",
             "TRCK(text=['3/11'])",
             "TSO2(encoding=Encoding.UTF8, text=['Metallica with Kamen, Michael conducting the San Francisco Symphony'])",
-            "TSOC(encoding=Encoding.UTF8, text=['Burton, Cliff', 'Hammett, Kirk', 'Hetfield, James', 'Ulrich, Lars'])",
             "TSOP(encoding=Encoding.UTF8, text=['Metallica'])",
             "TSRC(encoding=Encoding.UTF8, text=['GBAMC9900006', 'USEV19900031'])",
             "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Metallica'])",
@@ -106896,7 +106893,7 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['49371adc-871d-38f6-bb60-fd9e5af6795f'])",
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['4854bc2d-24e2-322f-bdf3-e3e9242bc3c8'])",
-            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['19ec21de-2d93-390c-98b0-b68d98c4baf5', 'cc053c23-d8de-3cad-9145-2ba0f653bd10'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['cc053c23-d8de-3cad-9145-2ba0f653bd10'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['cqti8nhb7qri7f0s'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Master of Puppets'])",
