@@ -126489,11 +126489,11 @@
     },
     {
         "path": "Navidrome/f/2/r/f2rped0ll28ogmp5.mp3",
-        "modified": 1791817226,
+        "modified": 1795481382,
         "hash": "d6672288af2e2e480e412f8861c0dfcd",
         "tags": [
             "APIC(path='bec50f89757db3814ae7b789e54fde21.jpg')",
-            "TALB(encoding=Encoding.UTF8, text=['ウインダリア/バース'])",
+            "TALB(encoding=Encoding.UTF8, text=['Windaria / Birth'])",
             "TCMP(encoding=Encoding.UTF8, text=['1'])",
             "TCOM(encoding=Encoding.UTF8, text=['Kunihiko Murai', 'Akino Arai'])",
             "TCON(encoding=Encoding.UTF8, text=['Pop'])",
@@ -158168,11 +158168,11 @@
     },
     {
         "path": "Navidrome/j/8/p/j8p0f6k4wb3e5g8r.mp3",
-        "modified": 1792472935,
+        "modified": 1795481382,
         "hash": "56e6e906dac885ae7a11ae4db3f83a4a",
         "tags": [
             "APIC(path='5a24e58b052acc96b19f9930944e691b.jpg')",
-            "TALB(encoding=Encoding.UTF8, text=['凍る砂'])",
+            "TALB(encoding=Encoding.UTF8, text=['Kooru Suna'])",
             "TCOM(encoding=Encoding.UTF8, text=['Michiru Oshima'])",
             "TCON(encoding=Encoding.UTF8, text=['J-Pop'])",
             "TDOR(encoding=Encoding.UTF8, text=['1992-11-21'])",
@@ -201769,11 +201769,11 @@
     },
     {
         "path": "Navidrome/o/n/c/onccov2s9h46k1jr.mp3",
-        "modified": 1792472935,
+        "modified": 1795481382,
         "hash": "957e08c53acfae2790acebee982b35de",
         "tags": [
             "APIC(path='5a24e58b052acc96b19f9930944e691b.jpg')",
-            "TALB(encoding=Encoding.UTF8, text=['凍る砂'])",
+            "TALB(encoding=Encoding.UTF8, text=['Kooru Suna'])",
             "TCOM(encoding=Encoding.UTF8, text=['Akino Arai'])",
             "TCON(encoding=Encoding.UTF8, text=['J-Pop'])",
             "TDOR(encoding=Encoding.UTF8, text=['1992-11-21'])",
@@ -278100,17 +278100,17 @@
     },
     {
         "path": "Navidrome/y/1/e/y1elrvhzc3lr0fb0.mp3",
-        "modified": 1795378181,
+        "modified": 1795481460,
         "hash": "832e722a327a6e8dd013eaa04c7eaced",
         "tags": [
             "APIC(path='b2b4bc9d9cd2b8bd8a581a065105fd5c.jpg')",
-            "TALB(encoding=Encoding.UTF8, text=['季節を抱きしめて [standalone]'])",
+            "TALB(encoding=Encoding.UTF8, text=['Kisetsu o Dakishimete (Uta: Fumi Oto) [standalone]'])",
             "TCOM(encoding=Encoding.UTF8, text=['Fumi Oto'])",
             "TDOR(encoding=Encoding.UTF8, text=['1998-11-21'])",
             "TDRC(encoding=Encoding.UTF8, text=['1998-11-21'])",
             "TEXT(encoding=Encoding.UTF8, text=['Fumi Oto', 'Atsuko Sawamura'])",
             "TIPL(encoding=Encoding.UTF8, people=[['arranger', 'Thousand sketcheS']])",
-            "TIT2(encoding=Encoding.UTF8, text=['季節を抱きしめて'])",
+            "TIT2(encoding=Encoding.UTF8, text=['Kisetsu o Dakishimete (Uta: Fumi Oto)'])",
             "TLAN(encoding=Encoding.UTF8, text=['jpn'])",
             "TMCL(encoding=Encoding.UTF8, people=[['lead vocals', 'Fumi Oto']])",
             "TMED(encoding=Encoding.UTF8, text=['CD'])",
