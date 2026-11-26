@@ -30423,7 +30423,7 @@
     },
     {
         "path": "Navidrome/3/o/6/3o69t940j4vcwe6z.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "4bbef4ac920557aae35e0ede73b609c1",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -30455,7 +30455,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['c35836dd-555b-33dd-a0e2-f6e54cccf3a6'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['3o69t940j4vcwe6z'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'47202bea-8374-4f5a-bb41-7dbece22385a')"
         ]
@@ -40012,7 +40014,7 @@
     },
     {
         "path": "Navidrome/4/u/s/4usrm2qutcnqa4kf.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "c78d909aaf839a4e47994df852e5105c",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -40044,7 +40046,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['94d735cf-1238-3885-bf23-a6fe259978ae'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['4usrm2qutcnqa4kf'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'b794cccf-dab1-4bc2-972d-6429cfe8fe44')"
         ]
@@ -82820,7 +82824,7 @@
     },
     {
         "path": "Navidrome/9/t/y/9tymq27wt0qcfkiq.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "888642bdf8e5a4f2b4b64477796d80e3",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -82852,7 +82856,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['7c1501bc-3971-30c3-a0a8-a2ba7f583386'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['9tymq27wt0qcfkiq'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'94fc1165-8853-4800-a32f-acff738e3170')"
         ]
@@ -106317,7 +106323,7 @@
     },
     {
         "path": "Navidrome/c/l/b/clbaj4sera7h4t98.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "a8b39f59e74729cdb0037a131c1e6e21",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -106350,6 +106356,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Work Id', text=['46cfe38c-c157-4ee7-986e-f1481ffa9e20'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['clbaj4sera7h4t98'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='WORK', text=['Repent (Whore)'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'90d210cc-7cbd-434b-a9b2-9d65fc5f32a5')"
@@ -128375,7 +128384,7 @@
     },
     {
         "path": "Navidrome/f/9/u/f9uulprrl4ofcrhr.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "8ed21d1b92127edb5020c6df4bc47bbb",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -128407,7 +128416,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['90ee6fc8-e825-382b-8036-89e1369f42ae'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['f9uulprrl4ofcrhr'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'4cde6915-c338-4942-b11a-323add565e04')"
         ]
@@ -181097,7 +181108,7 @@
     },
     {
         "path": "Navidrome/m/4/o/m4or5e7hchlfhpnv.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "bb21141dbe89e0a974cbacbd6cc6ad93",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -181129,7 +181140,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['e484e1e0-245d-395a-95da-50d5a562e233'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['m4or5e7hchlfhpnv'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'e81fd8d8-ad0a-4655-8c96-9023bd766d62')"
         ]
@@ -271108,7 +271121,7 @@
     },
     {
         "path": "Navidrome/x/4/t/x4t29vr2nh25tmi4.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "6bd0d7e28af7ca9e31bbce3b8bd17e8e",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -271140,7 +271153,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['59b045b1-cab7-3411-afcf-6b574a0c375e'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['x4t29vr2nh25tmi4'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'17eae1c4-fbd7-4fc5-ba2b-a78380d93df4')"
         ]
@@ -287978,7 +287993,7 @@
     },
     {
         "path": "Navidrome/z/4/k/z4k9y60bc6qu94e0.mp3",
-        "modified": 1795707220,
+        "modified": 1795708440,
         "hash": "fe752f6cdc6ac5ef6cef9d452e3f45a6",
         "tags": [
             "APIC(path='db5b3ed535a128447d6b2e82ebc656b3.jpg')",
@@ -288010,7 +288025,9 @@
             "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['acf1f524-7646-3944-ab1a-f978c68f9b46'])",
             "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['z4k9y60bc6qu94e0'])",
             "TXXX(encoding=Encoding.UTF8, desc='SCRIPT', text=['Latn'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['RuTracker'])",
             "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['FLAC 16/44.1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://rutracker.org/forum/viewtopic.php?t=5198328'])",
             "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['1998'])",
             "UFID(owner='http://musicbrainz.org', data=b'f07d35cc-0b7d-4701-9c76-d9f9c3ed68e9')"
         ]
