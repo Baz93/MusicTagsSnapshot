@@ -264219,6 +264219,37 @@
         ]
     },
     {
+        "path": "Navidrome/w/d/x/wdxuu3wfa67slfh6.mp3",
+        "modified": 1795813295,
+        "hash": "f059f2cdcbe24701883a4155cd19a482",
+        "tags": [
+            "TALB(encoding=Encoding.UTF8, text=['AB - Europy płomień [standalone]'])",
+            "TDOR(encoding=Encoding.UTF8, text=['2011'])",
+            "TDRC(encoding=Encoding.UTF8, text=['2011'])",
+            "TIT2(encoding=Encoding.UTF8, text=['AB - Europy płomień'])",
+            "TPE1(encoding=Encoding.UTF8, text=['Saluth o/o/o/'])",
+            "TPE2(encoding=Encoding.UTF8, text=['Saluth o/o/o/'])",
+            "TSO2(encoding=Encoding.UTF8, text=['Saluth o/o/o/'])",
+            "TSOP(encoding=Encoding.UTF8, text=['Saluth o/o/o/'])",
+            "TXXX(encoding=Encoding.UTF8, desc='ARTISTS', text=['Saluth o/o/o/'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Artist Id', text=['5a3dff4a-df65-4710-a123-95493ed341ba'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Id', text=['77b54eb1-5a1b-4d40-b51d-e8ec8ca0efa1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Status', text=['official'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Album Type', text=['ep'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Artist Id', text=['5a3dff4a-df65-4710-a123-95493ed341ba'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Group Id', text=['c8f13a05-e9c4-42a5-ac76-f13f4e6d1768'])",
+            "TXXX(encoding=Encoding.UTF8, desc='MusicBrainz Release Track Id', text=['b94f1da7-3dfc-48a0-86c7-2c7af80c0ab2'])",
+            "TXXX(encoding=Encoding.UTF8, desc='Navidrome Id', text=['wdxuu3wfa67slfh6'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE', text=['YouTube'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_FORMAT', text=['Opus 129k'])",
+            "TXXX(encoding=Encoding.UTF8, desc='SOURCE_URL', text=['https://youtu.be/A4Eacx-uZuM'])",
+            "TXXX(encoding=Encoding.UTF8, desc='STANDALONE', text=['1'])",
+            "TXXX(encoding=Encoding.UTF8, desc='STANDALONE_ALBUM', text=['b94f1da7-3dfc-48a0-86c7-2c7af80c0ab2'])",
+            "TXXX(encoding=Encoding.UTF8, desc='originalyear', text=['2011'])",
+            "UFID(owner='http://musicbrainz.org', data=b'b2861313-8c20-445a-a124-6ace7d6a97dc')"
+        ]
+    },
+    {
         "path": "Navidrome/w/e/1/we1y3hvds90aqnc4.mp3",
         "modified": 1790787767,
         "hash": "4c95cb63cff9b374438ad4bd8c0ef4ee",
