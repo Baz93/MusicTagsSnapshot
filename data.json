@@ -264290,9 +264290,10 @@
     },
     {
         "path": "Navidrome/w/d/x/wdxuu3wfa67slfh6.mp3",
-        "modified": 1795813295,
+        "modified": 1795825797,
         "hash": "f059f2cdcbe24701883a4155cd19a482",
         "tags": [
+            "APIC(path='f66d833cb8259fe6e658821e88323315.jpg')",
             "TALB(encoding=Encoding.UTF8, text=['AB - Europy płomień [standalone]'])",
             "TDOR(encoding=Encoding.UTF8, text=['2011'])",
             "TDRC(encoding=Encoding.UTF8, text=['2011'])",
